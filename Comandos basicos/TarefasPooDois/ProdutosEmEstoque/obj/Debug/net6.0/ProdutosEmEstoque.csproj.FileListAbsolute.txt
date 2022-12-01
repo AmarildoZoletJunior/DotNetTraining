@@ -1,0 +1,15 @@
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\ProdutosEmEstoque\bin\Debug\net6.0\ProdutosEmEstoque.exe
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\ProdutosEmEstoque\bin\Debug\net6.0\ProdutosEmEstoque.deps.json
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\ProdutosEmEstoque\bin\Debug\net6.0\ProdutosEmEstoque.runtimeconfig.json
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\ProdutosEmEstoque\bin\Debug\net6.0\ProdutosEmEstoque.dll
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\ProdutosEmEstoque\bin\Debug\net6.0\ProdutosEmEstoque.pdb
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.csproj.AssemblyReference.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.AssemblyInfoInputs.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.AssemblyInfo.cs
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.dll
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\ProdutosEmEstoque\obj\Debug\net6.0\refint\ProdutosEmEstoque.dll
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.pdb
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.genruntimeconfig.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\ProdutosEmEstoque\obj\Debug\net6.0\ref\ProdutosEmEstoque.dll

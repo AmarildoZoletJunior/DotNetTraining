@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mod12-JogoTabuleiro/1.0.0": {
+        "runtime": {
+          "Mod12-JogoTabuleiro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mod12-JogoTabuleiro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

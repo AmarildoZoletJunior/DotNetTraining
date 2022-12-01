@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Aluguel2\Aluguel2\bin\Debug\net6.0\Aluguel2.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Aluguel2\Aluguel2\bin\Debug\net6.0\Aluguel2.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Aluguel2\Aluguel2\bin\Debug\net6.0\Aluguel2.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Aluguel2\Aluguel2\bin\Debug\net6.0\Aluguel2.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Aluguel2\Aluguel2\bin\Debug\net6.0\Aluguel2.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Aluguel2\Aluguel2\obj\Debug\net6.0\Aluguel2.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Aluguel2\Aluguel2\obj\Debug\net6.0\Aluguel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Aluguel2\Aluguel2\obj\Debug\net6.0\Aluguel2.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Aluguel2\Aluguel2\obj\Debug\net6.0\Aluguel2.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Aluguel2\Aluguel2\obj\Debug\net6.0\Aluguel2.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Aluguel2\Aluguel2\obj\Debug\net6.0\Aluguel2.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Aluguel2\Aluguel2\obj\Debug\net6.0\refint\Aluguel2.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Aluguel2\Aluguel2\obj\Debug\net6.0\Aluguel2.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Aluguel2\Aluguel2\obj\Debug\net6.0\Aluguel2.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Aluguel2\Aluguel2\obj\Debug\net6.0\ref\Aluguel2.dll

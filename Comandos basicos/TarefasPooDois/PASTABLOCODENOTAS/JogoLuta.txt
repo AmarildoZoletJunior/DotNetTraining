@@ -1,0 +1,4 @@
+
+amarildoteste,100,15,105
+Teste,100,10,65
+Amarildo,140,15,60

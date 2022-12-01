@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AtividadePolimorfismo\AtividadePolimorfismo\bin\Debug\net6.0\AtividadePolimorfismo.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AtividadePolimorfismo\AtividadePolimorfismo\bin\Debug\net6.0\AtividadePolimorfismo.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AtividadePolimorfismo\AtividadePolimorfismo\bin\Debug\net6.0\AtividadePolimorfismo.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AtividadePolimorfismo\AtividadePolimorfismo\bin\Debug\net6.0\AtividadePolimorfismo.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AtividadePolimorfismo\AtividadePolimorfismo\bin\Debug\net6.0\AtividadePolimorfismo.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AtividadePolimorfismo\AtividadePolimorfismo\obj\Debug\net6.0\AtividadePolimorfismo.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AtividadePolimorfismo\AtividadePolimorfismo\obj\Debug\net6.0\AtividadePolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AtividadePolimorfismo\AtividadePolimorfismo\obj\Debug\net6.0\AtividadePolimorfismo.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AtividadePolimorfismo\AtividadePolimorfismo\obj\Debug\net6.0\AtividadePolimorfismo.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AtividadePolimorfismo\AtividadePolimorfismo\obj\Debug\net6.0\AtividadePolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AtividadePolimorfismo\AtividadePolimorfismo\obj\Debug\net6.0\AtividadePolimorfismo.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AtividadePolimorfismo\AtividadePolimorfismo\obj\Debug\net6.0\refint\AtividadePolimorfismo.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AtividadePolimorfismo\AtividadePolimorfismo\obj\Debug\net6.0\AtividadePolimorfismo.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AtividadePolimorfismo\AtividadePolimorfismo\obj\Debug\net6.0\AtividadePolimorfismo.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AtividadePolimorfismo\AtividadePolimorfismo\obj\Debug\net6.0\ref\AtividadePolimorfismo.dll

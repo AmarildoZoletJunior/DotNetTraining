@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\Icomparable\Utilizando IComparable\obj\Debug\net6.0\Utilizando IComparable.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\Icomparable\Utilizando IComparable\obj\Debug\net6.0\Utilizando IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\Icomparable\Utilizando IComparable\obj\Debug\net6.0\Utilizando IComparable.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\Icomparable\Utilizando IComparable\obj\Debug\net6.0\Utilizando IComparable.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\Icomparable\Utilizando IComparable\obj\Debug\net6.0\Utilizando IComparable.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\Icomparable\Utilizando IComparable\bin\Debug\net6.0\Utilizando IComparable.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\Icomparable\Utilizando IComparable\bin\Debug\net6.0\Utilizando IComparable.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\Icomparable\Utilizando IComparable\bin\Debug\net6.0\Utilizando IComparable.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\Icomparable\Utilizando IComparable\bin\Debug\net6.0\Utilizando IComparable.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\Icomparable\Utilizando IComparable\bin\Debug\net6.0\Utilizando IComparable.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\Icomparable\Utilizando IComparable\obj\Debug\net6.0\Utilizando IComparable.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\Icomparable\Utilizando IComparable\obj\Debug\net6.0\refint\Utilizando IComparable.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\Icomparable\Utilizando IComparable\obj\Debug\net6.0\Utilizando IComparable.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\Icomparable\Utilizando IComparable\obj\Debug\net6.0\Utilizando IComparable.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\Icomparable\Utilizando IComparable\obj\Debug\net6.0\ref\Utilizando IComparable.dll

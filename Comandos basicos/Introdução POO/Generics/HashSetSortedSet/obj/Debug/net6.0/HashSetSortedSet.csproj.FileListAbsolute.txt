@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\HashSetSortedSet\bin\Debug\net6.0\HashSetSortedSet.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\HashSetSortedSet\bin\Debug\net6.0\HashSetSortedSet.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\HashSetSortedSet\bin\Debug\net6.0\HashSetSortedSet.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\HashSetSortedSet\bin\Debug\net6.0\HashSetSortedSet.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\HashSetSortedSet\bin\Debug\net6.0\HashSetSortedSet.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\HashSetSortedSet\obj\Debug\net6.0\refint\HashSetSortedSet.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\HashSetSortedSet\obj\Debug\net6.0\ref\HashSetSortedSet.dll

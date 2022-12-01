@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\PedidosAtividade\PedidosAtividade\bin\Debug\net6.0\PedidosAtividade.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\PedidosAtividade\PedidosAtividade\bin\Debug\net6.0\PedidosAtividade.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\PedidosAtividade\PedidosAtividade\bin\Debug\net6.0\PedidosAtividade.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\PedidosAtividade\PedidosAtividade\bin\Debug\net6.0\PedidosAtividade.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\PedidosAtividade\PedidosAtividade\bin\Debug\net6.0\PedidosAtividade.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\PedidosAtividade\PedidosAtividade\obj\Debug\net6.0\PedidosAtividade.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\PedidosAtividade\PedidosAtividade\obj\Debug\net6.0\PedidosAtividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\PedidosAtividade\PedidosAtividade\obj\Debug\net6.0\PedidosAtividade.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\PedidosAtividade\PedidosAtividade\obj\Debug\net6.0\PedidosAtividade.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\PedidosAtividade\PedidosAtividade\obj\Debug\net6.0\PedidosAtividade.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\PedidosAtividade\PedidosAtividade\obj\Debug\net6.0\PedidosAtividade.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\PedidosAtividade\PedidosAtividade\obj\Debug\net6.0\refint\PedidosAtividade.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\PedidosAtividade\PedidosAtividade\obj\Debug\net6.0\PedidosAtividade.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\PedidosAtividade\PedidosAtividade\obj\Debug\net6.0\PedidosAtividade.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\PedidosAtividade\PedidosAtividade\obj\Debug\net6.0\ref\PedidosAtividade.dll

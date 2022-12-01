@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\PagamentoImposto\PagamentoImposto\bin\Debug\net6.0\PagamentoImposto.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\PagamentoImposto\PagamentoImposto\bin\Debug\net6.0\PagamentoImposto.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\PagamentoImposto\PagamentoImposto\bin\Debug\net6.0\PagamentoImposto.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\PagamentoImposto\PagamentoImposto\bin\Debug\net6.0\PagamentoImposto.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\PagamentoImposto\PagamentoImposto\bin\Debug\net6.0\PagamentoImposto.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\PagamentoImposto\PagamentoImposto\obj\Debug\net6.0\PagamentoImposto.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\PagamentoImposto\PagamentoImposto\obj\Debug\net6.0\PagamentoImposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\PagamentoImposto\PagamentoImposto\obj\Debug\net6.0\PagamentoImposto.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\PagamentoImposto\PagamentoImposto\obj\Debug\net6.0\PagamentoImposto.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\PagamentoImposto\PagamentoImposto\obj\Debug\net6.0\PagamentoImposto.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\PagamentoImposto\PagamentoImposto\obj\Debug\net6.0\PagamentoImposto.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\PagamentoImposto\PagamentoImposto\obj\Debug\net6.0\refint\PagamentoImposto.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\PagamentoImposto\PagamentoImposto\obj\Debug\net6.0\PagamentoImposto.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\PagamentoImposto\PagamentoImposto\obj\Debug\net6.0\PagamentoImposto.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\PagamentoImposto\PagamentoImposto\obj\Debug\net6.0\ref\PagamentoImposto.dll

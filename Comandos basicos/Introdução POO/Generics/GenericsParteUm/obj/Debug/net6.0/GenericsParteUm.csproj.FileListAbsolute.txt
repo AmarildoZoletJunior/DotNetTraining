@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\GenericsParteUm\bin\Debug\net6.0\GenericsParteUm.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\GenericsParteUm\bin\Debug\net6.0\GenericsParteUm.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\GenericsParteUm\bin\Debug\net6.0\GenericsParteUm.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\GenericsParteUm\bin\Debug\net6.0\GenericsParteUm.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\GenericsParteUm\bin\Debug\net6.0\GenericsParteUm.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\GenericsParteUm\obj\Debug\net6.0\GenericsParteUm.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\GenericsParteUm\obj\Debug\net6.0\GenericsParteUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\GenericsParteUm\obj\Debug\net6.0\GenericsParteUm.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\GenericsParteUm\obj\Debug\net6.0\GenericsParteUm.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\GenericsParteUm\obj\Debug\net6.0\GenericsParteUm.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\GenericsParteUm\obj\Debug\net6.0\GenericsParteUm.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\GenericsParteUm\obj\Debug\net6.0\refint\GenericsParteUm.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\GenericsParteUm\obj\Debug\net6.0\GenericsParteUm.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\GenericsParteUm\obj\Debug\net6.0\GenericsParteUm.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\GenericsParteUm\obj\Debug\net6.0\ref\GenericsParteUm.dll

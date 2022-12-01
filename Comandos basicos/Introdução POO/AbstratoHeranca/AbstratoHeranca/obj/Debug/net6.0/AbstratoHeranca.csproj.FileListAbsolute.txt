@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AbstratoHeranca\AbstratoHeranca\bin\Debug\net6.0\AbstratoHeranca.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AbstratoHeranca\AbstratoHeranca\bin\Debug\net6.0\AbstratoHeranca.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AbstratoHeranca\AbstratoHeranca\bin\Debug\net6.0\AbstratoHeranca.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AbstratoHeranca\AbstratoHeranca\bin\Debug\net6.0\AbstratoHeranca.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AbstratoHeranca\AbstratoHeranca\bin\Debug\net6.0\AbstratoHeranca.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AbstratoHeranca\AbstratoHeranca\obj\Debug\net6.0\AbstratoHeranca.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AbstratoHeranca\AbstratoHeranca\obj\Debug\net6.0\AbstratoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AbstratoHeranca\AbstratoHeranca\obj\Debug\net6.0\AbstratoHeranca.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AbstratoHeranca\AbstratoHeranca\obj\Debug\net6.0\AbstratoHeranca.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AbstratoHeranca\AbstratoHeranca\obj\Debug\net6.0\AbstratoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AbstratoHeranca\AbstratoHeranca\obj\Debug\net6.0\AbstratoHeranca.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AbstratoHeranca\AbstratoHeranca\obj\Debug\net6.0\refint\AbstratoHeranca.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AbstratoHeranca\AbstratoHeranca\obj\Debug\net6.0\AbstratoHeranca.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AbstratoHeranca\AbstratoHeranca\obj\Debug\net6.0\AbstratoHeranca.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\AbstratoHeranca\AbstratoHeranca\obj\Debug\net6.0\ref\AbstratoHeranca.dll

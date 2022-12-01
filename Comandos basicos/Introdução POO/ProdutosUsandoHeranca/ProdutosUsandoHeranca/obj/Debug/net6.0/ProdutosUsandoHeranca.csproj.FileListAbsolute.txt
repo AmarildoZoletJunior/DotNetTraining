@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\ProdutosUsandoHeranca\ProdutosUsandoHeranca\obj\Debug\net6.0\ProdutosUsandoHeranca.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\ProdutosUsandoHeranca\ProdutosUsandoHeranca\obj\Debug\net6.0\ProdutosUsandoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\ProdutosUsandoHeranca\ProdutosUsandoHeranca\obj\Debug\net6.0\ProdutosUsandoHeranca.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\ProdutosUsandoHeranca\ProdutosUsandoHeranca\obj\Debug\net6.0\ProdutosUsandoHeranca.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\ProdutosUsandoHeranca\ProdutosUsandoHeranca\obj\Debug\net6.0\ProdutosUsandoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\ProdutosUsandoHeranca\ProdutosUsandoHeranca\bin\Debug\net6.0\ProdutosUsandoHeranca.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\ProdutosUsandoHeranca\ProdutosUsandoHeranca\bin\Debug\net6.0\ProdutosUsandoHeranca.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\ProdutosUsandoHeranca\ProdutosUsandoHeranca\bin\Debug\net6.0\ProdutosUsandoHeranca.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\ProdutosUsandoHeranca\ProdutosUsandoHeranca\bin\Debug\net6.0\ProdutosUsandoHeranca.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\ProdutosUsandoHeranca\ProdutosUsandoHeranca\bin\Debug\net6.0\ProdutosUsandoHeranca.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\ProdutosUsandoHeranca\ProdutosUsandoHeranca\obj\Debug\net6.0\ProdutosUsandoHeranca.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\ProdutosUsandoHeranca\ProdutosUsandoHeranca\obj\Debug\net6.0\refint\ProdutosUsandoHeranca.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\ProdutosUsandoHeranca\ProdutosUsandoHeranca\obj\Debug\net6.0\ProdutosUsandoHeranca.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\ProdutosUsandoHeranca\ProdutosUsandoHeranca\obj\Debug\net6.0\ProdutosUsandoHeranca.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\ProdutosUsandoHeranca\ProdutosUsandoHeranca\obj\Debug\net6.0\ref\ProdutosUsandoHeranca.dll

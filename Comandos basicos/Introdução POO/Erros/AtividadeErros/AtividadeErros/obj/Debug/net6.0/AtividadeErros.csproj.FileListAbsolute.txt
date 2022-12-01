@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Erros\AtividadeErros\AtividadeErros\bin\Debug\net6.0\AtividadeErros.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Erros\AtividadeErros\AtividadeErros\bin\Debug\net6.0\AtividadeErros.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Erros\AtividadeErros\AtividadeErros\bin\Debug\net6.0\AtividadeErros.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Erros\AtividadeErros\AtividadeErros\bin\Debug\net6.0\AtividadeErros.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Erros\AtividadeErros\AtividadeErros\bin\Debug\net6.0\AtividadeErros.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Erros\AtividadeErros\AtividadeErros\obj\Debug\net6.0\AtividadeErros.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Erros\AtividadeErros\AtividadeErros\obj\Debug\net6.0\AtividadeErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Erros\AtividadeErros\AtividadeErros\obj\Debug\net6.0\AtividadeErros.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Erros\AtividadeErros\AtividadeErros\obj\Debug\net6.0\AtividadeErros.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Erros\AtividadeErros\AtividadeErros\obj\Debug\net6.0\AtividadeErros.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Erros\AtividadeErros\AtividadeErros\obj\Debug\net6.0\AtividadeErros.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Erros\AtividadeErros\AtividadeErros\obj\Debug\net6.0\refint\AtividadeErros.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Erros\AtividadeErros\AtividadeErros\obj\Debug\net6.0\AtividadeErros.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Erros\AtividadeErros\AtividadeErros\obj\Debug\net6.0\AtividadeErros.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Erros\AtividadeErros\AtividadeErros\obj\Debug\net6.0\ref\AtividadeErros.dll

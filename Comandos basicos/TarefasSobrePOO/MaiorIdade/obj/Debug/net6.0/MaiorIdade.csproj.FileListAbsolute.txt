@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\MaiorIdade\obj\Debug\net6.0\MaiorIdade.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\MaiorIdade\obj\Debug\net6.0\MaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\MaiorIdade\obj\Debug\net6.0\MaiorIdade.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\MaiorIdade\obj\Debug\net6.0\MaiorIdade.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\MaiorIdade\obj\Debug\net6.0\MaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\MaiorIdade\bin\Debug\net6.0\MaiorIdade.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\MaiorIdade\bin\Debug\net6.0\MaiorIdade.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\MaiorIdade\bin\Debug\net6.0\MaiorIdade.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\MaiorIdade\bin\Debug\net6.0\MaiorIdade.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\MaiorIdade\bin\Debug\net6.0\MaiorIdade.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\MaiorIdade\obj\Debug\net6.0\MaiorIdade.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\MaiorIdade\obj\Debug\net6.0\refint\MaiorIdade.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\MaiorIdade\obj\Debug\net6.0\MaiorIdade.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\MaiorIdade\obj\Debug\net6.0\MaiorIdade.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\MaiorIdade\obj\Debug\net6.0\ref\MaiorIdade.dll

@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\ContratosServico\ContratosServico\bin\Debug\net6.0\ContratosServico.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\ContratosServico\ContratosServico\bin\Debug\net6.0\ContratosServico.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\ContratosServico\ContratosServico\bin\Debug\net6.0\ContratosServico.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\ContratosServico\ContratosServico\bin\Debug\net6.0\ContratosServico.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\ContratosServico\ContratosServico\bin\Debug\net6.0\ContratosServico.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\ContratosServico\ContratosServico\obj\Debug\net6.0\ContratosServico.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\ContratosServico\ContratosServico\obj\Debug\net6.0\ContratosServico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\ContratosServico\ContratosServico\obj\Debug\net6.0\ContratosServico.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\ContratosServico\ContratosServico\obj\Debug\net6.0\ContratosServico.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\ContratosServico\ContratosServico\obj\Debug\net6.0\ContratosServico.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\ContratosServico\ContratosServico\obj\Debug\net6.0\ContratosServico.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\ContratosServico\ContratosServico\obj\Debug\net6.0\refint\ContratosServico.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\ContratosServico\ContratosServico\obj\Debug\net6.0\ContratosServico.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\ContratosServico\ContratosServico\obj\Debug\net6.0\ContratosServico.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\ContratosServico\ContratosServico\obj\Debug\net6.0\ref\ContratosServico.dll

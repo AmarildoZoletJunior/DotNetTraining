@@ -1,0 +1,14 @@
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.DataAnootations\bin\Debug\net6.0\Ecommerce.Models.DataAnootations.deps.json
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.DataAnootations\bin\Debug\net6.0\Ecommerce.Models.DataAnootations.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.DataAnootations\bin\Debug\net6.0\Ecommerce.Models.DataAnootations.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.DataAnootations\bin\Debug\net6.0\Ecommerce.Models.DataAnootations.pdb
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.DataAnootations\obj\Debug\net6.0\Ecommerce.Models.DataAnootations.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.DataAnootations\obj\Debug\net6.0\Ecommerce.Models.DataAnootations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.DataAnootations\obj\Debug\net6.0\Ecommerce.Models.DataAnootations.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.DataAnootations\obj\Debug\net6.0\Ecommerce.Models.DataAnootations.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.DataAnootations\obj\Debug\net6.0\Ecommerce.Models.DataAnootations.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.DataAnootations\obj\Debug\net6.0\Ecommerce.Models.DataAnootations.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.DataAnootations\obj\Debug\net6.0\refint\Ecommerce.Models.DataAnootations.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.DataAnootations\obj\Debug\net6.0\Ecommerce.Models.DataAnootations.pdb
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.DataAnootations\obj\Debug\net6.0\Ecommerce.Models.DataAnootations.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.DataAnootations\obj\Debug\net6.0\ref\Ecommerce.Models.DataAnootations.dll

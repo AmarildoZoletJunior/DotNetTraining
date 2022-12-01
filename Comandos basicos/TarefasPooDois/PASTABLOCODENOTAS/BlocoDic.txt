@@ -1,0 +1,8 @@
+Alex Blue,15
+Maria Red,20
+Alex Blue,8
+Maria Red,50
+Wellington,150
+Wellington,1
+Bob,190
+Bob,1

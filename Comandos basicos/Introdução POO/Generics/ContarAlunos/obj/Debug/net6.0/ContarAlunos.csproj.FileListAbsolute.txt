@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\ContarAlunos\bin\Debug\net6.0\ContarAlunos.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\ContarAlunos\bin\Debug\net6.0\ContarAlunos.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\ContarAlunos\bin\Debug\net6.0\ContarAlunos.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\ContarAlunos\bin\Debug\net6.0\ContarAlunos.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\ContarAlunos\bin\Debug\net6.0\ContarAlunos.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\ContarAlunos\obj\Debug\net6.0\ContarAlunos.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\ContarAlunos\obj\Debug\net6.0\ContarAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\ContarAlunos\obj\Debug\net6.0\ContarAlunos.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\ContarAlunos\obj\Debug\net6.0\ContarAlunos.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\ContarAlunos\obj\Debug\net6.0\ContarAlunos.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\ContarAlunos\obj\Debug\net6.0\ContarAlunos.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\ContarAlunos\obj\Debug\net6.0\refint\ContarAlunos.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\ContarAlunos\obj\Debug\net6.0\ContarAlunos.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\ContarAlunos\obj\Debug\net6.0\ContarAlunos.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\ContarAlunos\obj\Debug\net6.0\ref\ContarAlunos.dll

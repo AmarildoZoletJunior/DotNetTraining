@@ -1,0 +1,12 @@
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\Receita.Models\bin\Debug\net6.0\Receitas.Models.deps.json
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\Receita.Models\bin\Debug\net6.0\Receitas.Models.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\Receita.Models\bin\Debug\net6.0\Receitas.Models.pdb
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\Receita.Models\obj\Debug\net6.0\Receitas.Models.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\Receita.Models\obj\Debug\net6.0\Receitas.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\Receita.Models\obj\Debug\net6.0\Receitas.Models.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\Receita.Models\obj\Debug\net6.0\Receitas.Models.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\Receita.Models\obj\Debug\net6.0\Receitas.Models.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\Receita.Models\obj\Debug\net6.0\Receitas.Models.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\Receita.Models\obj\Debug\net6.0\refint\Receitas.Models.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\Receita.Models\obj\Debug\net6.0\Receitas.Models.pdb
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\Receita.Models\obj\Debug\net6.0\ref\Receitas.Models.dll

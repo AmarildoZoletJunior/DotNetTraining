@@ -1,0 +1,5 @@
+Mouse,150.00
+Tv,900.00
+Teclado,180.30
+Fone,340.00
+Computador,2500.00

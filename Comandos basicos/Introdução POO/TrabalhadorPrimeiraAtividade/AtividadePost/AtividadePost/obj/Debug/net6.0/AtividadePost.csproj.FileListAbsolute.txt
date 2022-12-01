@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\AtividadePost\AtividadePost\bin\Debug\net6.0\AtividadePost.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\AtividadePost\AtividadePost\bin\Debug\net6.0\AtividadePost.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\AtividadePost\AtividadePost\bin\Debug\net6.0\AtividadePost.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\AtividadePost\AtividadePost\bin\Debug\net6.0\AtividadePost.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\AtividadePost\AtividadePost\bin\Debug\net6.0\AtividadePost.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\AtividadePost\AtividadePost\obj\Debug\net6.0\AtividadePost.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\AtividadePost\AtividadePost\obj\Debug\net6.0\AtividadePost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\AtividadePost\AtividadePost\obj\Debug\net6.0\AtividadePost.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\AtividadePost\AtividadePost\obj\Debug\net6.0\AtividadePost.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\AtividadePost\AtividadePost\obj\Debug\net6.0\AtividadePost.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\AtividadePost\AtividadePost\obj\Debug\net6.0\AtividadePost.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\AtividadePost\AtividadePost\obj\Debug\net6.0\refint\AtividadePost.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\AtividadePost\AtividadePost\obj\Debug\net6.0\AtividadePost.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\AtividadePost\AtividadePost\obj\Debug\net6.0\AtividadePost.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\AtividadePost\AtividadePost\obj\Debug\net6.0\ref\AtividadePost.dll

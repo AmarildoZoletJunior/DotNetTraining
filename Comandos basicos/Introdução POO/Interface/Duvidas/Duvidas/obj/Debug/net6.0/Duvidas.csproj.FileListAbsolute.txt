@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Duvidas\Duvidas\obj\Debug\net6.0\Duvidas.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Duvidas\Duvidas\obj\Debug\net6.0\Duvidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Duvidas\Duvidas\obj\Debug\net6.0\Duvidas.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Duvidas\Duvidas\obj\Debug\net6.0\Duvidas.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Duvidas\Duvidas\obj\Debug\net6.0\Duvidas.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Duvidas\Duvidas\bin\Debug\net6.0\Duvidas.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Duvidas\Duvidas\bin\Debug\net6.0\Duvidas.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Duvidas\Duvidas\bin\Debug\net6.0\Duvidas.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Duvidas\Duvidas\bin\Debug\net6.0\Duvidas.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Duvidas\Duvidas\bin\Debug\net6.0\Duvidas.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Duvidas\Duvidas\obj\Debug\net6.0\Duvidas.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Duvidas\Duvidas\obj\Debug\net6.0\refint\Duvidas.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Duvidas\Duvidas\obj\Debug\net6.0\Duvidas.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Duvidas\Duvidas\obj\Debug\net6.0\Duvidas.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\Duvidas\Duvidas\obj\Debug\net6.0\ref\Duvidas.dll

@@ -1,0 +1,14 @@
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.FluentAPI\bin\Debug\net6.0\Ecommerce.Models.FluentAPI.deps.json
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.FluentAPI\bin\Debug\net6.0\Ecommerce.Models.FluentAPI.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.FluentAPI\bin\Debug\net6.0\Ecommerce.Models.FluentAPI.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.FluentAPI\bin\Debug\net6.0\Ecommerce.Models.FluentAPI.pdb
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.FluentAPI\obj\Debug\net6.0\Ecommerce.Models.FluentAPI.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.FluentAPI\obj\Debug\net6.0\Ecommerce.Models.FluentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.FluentAPI\obj\Debug\net6.0\Ecommerce.Models.FluentAPI.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.FluentAPI\obj\Debug\net6.0\Ecommerce.Models.FluentAPI.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.FluentAPI\obj\Debug\net6.0\Ecommerce.Models.FluentAPI.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.FluentAPI\obj\Debug\net6.0\Ecommerce.Models.FluentAPI.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.FluentAPI\obj\Debug\net6.0\refint\Ecommerce.Models.FluentAPI.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.FluentAPI\obj\Debug\net6.0\Ecommerce.Models.FluentAPI.pdb
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.FluentAPI\obj\Debug\net6.0\Ecommerce.Models.FluentAPI.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\E-commerce Udemy\Ecommerce\Ecommerce.Models.FluentAPI\obj\Debug\net6.0\ref\Ecommerce.Models.FluentAPI.dll

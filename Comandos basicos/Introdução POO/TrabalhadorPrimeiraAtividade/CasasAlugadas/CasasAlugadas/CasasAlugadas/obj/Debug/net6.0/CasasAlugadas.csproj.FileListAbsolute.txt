@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\CasasAlugadas\CasasAlugadas\CasasAlugadas\bin\Debug\net6.0\CasasAlugadas.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\CasasAlugadas\CasasAlugadas\CasasAlugadas\bin\Debug\net6.0\CasasAlugadas.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\CasasAlugadas\CasasAlugadas\CasasAlugadas\bin\Debug\net6.0\CasasAlugadas.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\CasasAlugadas\CasasAlugadas\CasasAlugadas\bin\Debug\net6.0\CasasAlugadas.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\CasasAlugadas\CasasAlugadas\CasasAlugadas\bin\Debug\net6.0\CasasAlugadas.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\CasasAlugadas\CasasAlugadas\CasasAlugadas\obj\Debug\net6.0\CasasAlugadas.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\CasasAlugadas\CasasAlugadas\CasasAlugadas\obj\Debug\net6.0\CasasAlugadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\CasasAlugadas\CasasAlugadas\CasasAlugadas\obj\Debug\net6.0\CasasAlugadas.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\CasasAlugadas\CasasAlugadas\CasasAlugadas\obj\Debug\net6.0\CasasAlugadas.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\CasasAlugadas\CasasAlugadas\CasasAlugadas\obj\Debug\net6.0\CasasAlugadas.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\CasasAlugadas\CasasAlugadas\CasasAlugadas\obj\Debug\net6.0\CasasAlugadas.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\CasasAlugadas\CasasAlugadas\CasasAlugadas\obj\Debug\net6.0\refint\CasasAlugadas.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\CasasAlugadas\CasasAlugadas\CasasAlugadas\obj\Debug\net6.0\CasasAlugadas.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\CasasAlugadas\CasasAlugadas\CasasAlugadas\obj\Debug\net6.0\CasasAlugadas.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TrabalhadorPrimeiraAtividade\CasasAlugadas\CasasAlugadas\CasasAlugadas\obj\Debug\net6.0\ref\CasasAlugadas.dll

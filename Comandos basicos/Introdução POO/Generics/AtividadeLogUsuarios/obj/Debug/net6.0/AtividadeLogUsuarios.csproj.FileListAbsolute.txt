@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\AtividadeLogUsuarios\bin\Debug\net6.0\AtividadeLogUsuarios.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\AtividadeLogUsuarios\bin\Debug\net6.0\AtividadeLogUsuarios.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\AtividadeLogUsuarios\bin\Debug\net6.0\AtividadeLogUsuarios.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\AtividadeLogUsuarios\bin\Debug\net6.0\AtividadeLogUsuarios.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\AtividadeLogUsuarios\bin\Debug\net6.0\AtividadeLogUsuarios.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\AtividadeLogUsuarios\obj\Debug\net6.0\AtividadeLogUsuarios.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\AtividadeLogUsuarios\obj\Debug\net6.0\AtividadeLogUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\AtividadeLogUsuarios\obj\Debug\net6.0\AtividadeLogUsuarios.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\AtividadeLogUsuarios\obj\Debug\net6.0\AtividadeLogUsuarios.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\AtividadeLogUsuarios\obj\Debug\net6.0\AtividadeLogUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\AtividadeLogUsuarios\obj\Debug\net6.0\AtividadeLogUsuarios.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\AtividadeLogUsuarios\obj\Debug\net6.0\refint\AtividadeLogUsuarios.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\AtividadeLogUsuarios\obj\Debug\net6.0\AtividadeLogUsuarios.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\AtividadeLogUsuarios\obj\Debug\net6.0\AtividadeLogUsuarios.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Generics\AtividadeLogUsuarios\obj\Debug\net6.0\ref\AtividadeLogUsuarios.dll

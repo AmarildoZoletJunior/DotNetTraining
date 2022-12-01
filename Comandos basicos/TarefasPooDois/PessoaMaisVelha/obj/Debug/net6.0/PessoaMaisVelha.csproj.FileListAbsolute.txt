@@ -1,0 +1,15 @@
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.exe
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.deps.json
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.runtimeconfig.json
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.dll
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.pdb
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.csproj.AssemblyReference.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.AssemblyInfoInputs.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.AssemblyInfo.cs
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.csproj.CoreCompileInputs.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.dll
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\PessoaMaisVelha\obj\Debug\net6.0\refint\PessoaMaisVelha.dll
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.pdb
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.genruntimeconfig.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\PessoaMaisVelha\obj\Debug\net6.0\ref\PessoaMaisVelha.dll

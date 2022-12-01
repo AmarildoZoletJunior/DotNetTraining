@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\AnimaisEstimação\bin\Debug\net6.0\AnimaisEstimação.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\AnimaisEstimação\bin\Debug\net6.0\AnimaisEstimação.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\AnimaisEstimação\bin\Debug\net6.0\AnimaisEstimação.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\AnimaisEstimação\bin\Debug\net6.0\AnimaisEstimação.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\AnimaisEstimação\bin\Debug\net6.0\AnimaisEstimação.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\AnimaisEstimação\obj\Debug\net6.0\AnimaisEstimação.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\AnimaisEstimação\obj\Debug\net6.0\AnimaisEstimação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\AnimaisEstimação\obj\Debug\net6.0\AnimaisEstimação.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\AnimaisEstimação\obj\Debug\net6.0\AnimaisEstimação.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\AnimaisEstimação\obj\Debug\net6.0\AnimaisEstimação.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\AnimaisEstimação\obj\Debug\net6.0\AnimaisEstimação.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\AnimaisEstimação\obj\Debug\net6.0\refint\AnimaisEstimação.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\AnimaisEstimação\obj\Debug\net6.0\AnimaisEstimação.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\AnimaisEstimação\obj\Debug\net6.0\AnimaisEstimação.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\TarefasSobrePOO\AnimaisEstimação\obj\Debug\net6.0\ref\AnimaisEstimação.dll

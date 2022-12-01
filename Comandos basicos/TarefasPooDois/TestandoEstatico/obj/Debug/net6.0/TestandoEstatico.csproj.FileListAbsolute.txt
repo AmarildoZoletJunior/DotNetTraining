@@ -1,0 +1,15 @@
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\TestandoEstatico\bin\Debug\net6.0\TestandoEstatico.exe
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\TestandoEstatico\bin\Debug\net6.0\TestandoEstatico.deps.json
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\TestandoEstatico\bin\Debug\net6.0\TestandoEstatico.runtimeconfig.json
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\TestandoEstatico\bin\Debug\net6.0\TestandoEstatico.dll
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\TestandoEstatico\bin\Debug\net6.0\TestandoEstatico.pdb
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\TestandoEstatico\obj\Debug\net6.0\TestandoEstatico.csproj.AssemblyReference.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\TestandoEstatico\obj\Debug\net6.0\TestandoEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\TestandoEstatico\obj\Debug\net6.0\TestandoEstatico.AssemblyInfoInputs.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\TestandoEstatico\obj\Debug\net6.0\TestandoEstatico.AssemblyInfo.cs
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\TestandoEstatico\obj\Debug\net6.0\TestandoEstatico.csproj.CoreCompileInputs.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\TestandoEstatico\obj\Debug\net6.0\TestandoEstatico.dll
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\TestandoEstatico\obj\Debug\net6.0\refint\TestandoEstatico.dll
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\TestandoEstatico\obj\Debug\net6.0\TestandoEstatico.pdb
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\TestandoEstatico\obj\Debug\net6.0\TestandoEstatico.genruntimeconfig.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\TestandoEstatico\obj\Debug\net6.0\ref\TestandoEstatico.dll

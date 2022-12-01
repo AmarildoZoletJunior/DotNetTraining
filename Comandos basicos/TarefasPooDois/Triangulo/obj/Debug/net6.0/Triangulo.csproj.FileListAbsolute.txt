@@ -1,0 +1,15 @@
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\Triangulo\obj\Debug\net6.0\Triangulo.csproj.AssemblyReference.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\Triangulo\obj\Debug\net6.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\Triangulo\obj\Debug\net6.0\Triangulo.AssemblyInfoInputs.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\Triangulo\obj\Debug\net6.0\Triangulo.AssemblyInfo.cs
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\Triangulo\obj\Debug\net6.0\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\Triangulo\bin\Debug\net6.0\Triangulo.exe
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\Triangulo\bin\Debug\net6.0\Triangulo.deps.json
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\Triangulo\bin\Debug\net6.0\Triangulo.runtimeconfig.json
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\Triangulo\bin\Debug\net6.0\Triangulo.dll
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\Triangulo\bin\Debug\net6.0\Triangulo.pdb
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\Triangulo\obj\Debug\net6.0\Triangulo.dll
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\Triangulo\obj\Debug\net6.0\refint\Triangulo.dll
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\Triangulo\obj\Debug\net6.0\Triangulo.pdb
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\Triangulo\obj\Debug\net6.0\Triangulo.genruntimeconfig.cache
+C:\Users\Amarildo\Desktop\C#\Módulo 1 POO\Triangulo\obj\Debug\net6.0\ref\Triangulo.dll

@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\Herança e polimorfismo\bin\Debug\net6.0\Herança e polimorfismo.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\Herança e polimorfismo\bin\Debug\net6.0\Herança e polimorfismo.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\Herança e polimorfismo\bin\Debug\net6.0\Herança e polimorfismo.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\Herança e polimorfismo\bin\Debug\net6.0\Herança e polimorfismo.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\Herança e polimorfismo\bin\Debug\net6.0\Herança e polimorfismo.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\Herança e polimorfismo\obj\Debug\net6.0\Herança e polimorfismo.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\Herança e polimorfismo\obj\Debug\net6.0\Herança e polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\Herança e polimorfismo\obj\Debug\net6.0\Herança e polimorfismo.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\Herança e polimorfismo\obj\Debug\net6.0\Herança e polimorfismo.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\Herança e polimorfismo\obj\Debug\net6.0\Herança e polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\Herança e polimorfismo\obj\Debug\net6.0\Herança e polimorfismo.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\Herança e polimorfismo\obj\Debug\net6.0\refint\Herança e polimorfismo.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\Herança e polimorfismo\obj\Debug\net6.0\Herança e polimorfismo.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\Herança e polimorfismo\obj\Debug\net6.0\Herança e polimorfismo.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Herança e polimorfismo\Herança e polimorfismo\obj\Debug\net6.0\ref\Herança e polimorfismo.dll

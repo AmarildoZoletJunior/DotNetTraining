@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TratarErros\TratarErros\bin\Debug\net6.0\TratarErros.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TratarErros\TratarErros\bin\Debug\net6.0\TratarErros.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TratarErros\TratarErros\bin\Debug\net6.0\TratarErros.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TratarErros\TratarErros\bin\Debug\net6.0\TratarErros.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TratarErros\TratarErros\bin\Debug\net6.0\TratarErros.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TratarErros\TratarErros\obj\Debug\net6.0\TratarErros.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TratarErros\TratarErros\obj\Debug\net6.0\TratarErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TratarErros\TratarErros\obj\Debug\net6.0\TratarErros.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TratarErros\TratarErros\obj\Debug\net6.0\TratarErros.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TratarErros\TratarErros\obj\Debug\net6.0\TratarErros.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TratarErros\TratarErros\obj\Debug\net6.0\TratarErros.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TratarErros\TratarErros\obj\Debug\net6.0\refint\TratarErros.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TratarErros\TratarErros\obj\Debug\net6.0\TratarErros.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TratarErros\TratarErros\obj\Debug\net6.0\TratarErros.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\TratarErros\TratarErros\obj\Debug\net6.0\ref\TratarErros.dll

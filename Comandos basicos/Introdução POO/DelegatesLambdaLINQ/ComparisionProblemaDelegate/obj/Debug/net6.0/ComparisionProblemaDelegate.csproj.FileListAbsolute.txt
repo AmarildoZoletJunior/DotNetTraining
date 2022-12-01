@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\DelegatesLambdaLINQ\ComparisionProblemaDelegate\bin\Debug\net6.0\ComparisionProblemaDelegate.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\DelegatesLambdaLINQ\ComparisionProblemaDelegate\bin\Debug\net6.0\ComparisionProblemaDelegate.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\DelegatesLambdaLINQ\ComparisionProblemaDelegate\bin\Debug\net6.0\ComparisionProblemaDelegate.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\DelegatesLambdaLINQ\ComparisionProblemaDelegate\bin\Debug\net6.0\ComparisionProblemaDelegate.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\DelegatesLambdaLINQ\ComparisionProblemaDelegate\bin\Debug\net6.0\ComparisionProblemaDelegate.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\DelegatesLambdaLINQ\ComparisionProblemaDelegate\obj\Debug\net6.0\ComparisionProblemaDelegate.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\DelegatesLambdaLINQ\ComparisionProblemaDelegate\obj\Debug\net6.0\ComparisionProblemaDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\DelegatesLambdaLINQ\ComparisionProblemaDelegate\obj\Debug\net6.0\ComparisionProblemaDelegate.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\DelegatesLambdaLINQ\ComparisionProblemaDelegate\obj\Debug\net6.0\ComparisionProblemaDelegate.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\DelegatesLambdaLINQ\ComparisionProblemaDelegate\obj\Debug\net6.0\ComparisionProblemaDelegate.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\DelegatesLambdaLINQ\ComparisionProblemaDelegate\obj\Debug\net6.0\ComparisionProblemaDelegate.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\DelegatesLambdaLINQ\ComparisionProblemaDelegate\obj\Debug\net6.0\refint\ComparisionProblemaDelegate.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\DelegatesLambdaLINQ\ComparisionProblemaDelegate\obj\Debug\net6.0\ComparisionProblemaDelegate.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\DelegatesLambdaLINQ\ComparisionProblemaDelegate\obj\Debug\net6.0\ComparisionProblemaDelegate.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\DelegatesLambdaLINQ\ComparisionProblemaDelegate\obj\Debug\net6.0\ref\ComparisionProblemaDelegate.dll

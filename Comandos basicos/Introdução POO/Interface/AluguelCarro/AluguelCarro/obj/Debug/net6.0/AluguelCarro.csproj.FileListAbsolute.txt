@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\AluguelCarro\AluguelCarro\bin\Debug\net6.0\AluguelCarro.exe
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\AluguelCarro\AluguelCarro\bin\Debug\net6.0\AluguelCarro.deps.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\AluguelCarro\AluguelCarro\bin\Debug\net6.0\AluguelCarro.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\AluguelCarro\AluguelCarro\bin\Debug\net6.0\AluguelCarro.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\AluguelCarro\AluguelCarro\bin\Debug\net6.0\AluguelCarro.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\AluguelCarro\AluguelCarro\obj\Debug\net6.0\AluguelCarro.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\AluguelCarro\AluguelCarro\obj\Debug\net6.0\AluguelCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\AluguelCarro\AluguelCarro\obj\Debug\net6.0\AluguelCarro.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\AluguelCarro\AluguelCarro\obj\Debug\net6.0\AluguelCarro.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\AluguelCarro\AluguelCarro\obj\Debug\net6.0\AluguelCarro.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\AluguelCarro\AluguelCarro\obj\Debug\net6.0\AluguelCarro.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\AluguelCarro\AluguelCarro\obj\Debug\net6.0\refint\AluguelCarro.dll
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\AluguelCarro\AluguelCarro\obj\Debug\net6.0\AluguelCarro.pdb
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\AluguelCarro\AluguelCarro\obj\Debug\net6.0\AluguelCarro.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\RepositorioEstudos\Comandos basicos\Introdução POO\Interface\AluguelCarro\AluguelCarro\obj\Debug\net6.0\ref\AluguelCarro.dll
