@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\ProjetoReceitas\\ProjetoReceitas.csproj": {}
+    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\ApiComEF\\ProjetoReceitas\\ProjetoReceitas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\ProjetoReceitas\\ProjetoReceitas.csproj": {
+    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\ApiComEF\\ProjetoReceitas\\ProjetoReceitas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\ProjetoReceitas\\ProjetoReceitas.csproj",
+        "projectUniqueName": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\ApiComEF\\ProjetoReceitas\\ProjetoReceitas.csproj",
         "projectName": "ProjetoReceitas",
-        "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\ProjetoReceitas\\ProjetoReceitas.csproj",
+        "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\ApiComEF\\ProjetoReceitas\\ProjetoReceitas.csproj",
         "packagesPath": "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\ProjetoReceitas\\obj\\",
+        "outputPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\ApiComEF\\ProjetoReceitas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amarildojunior_frwk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\Receita.Models\\Receitas.Models.csproj": {
-                "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\Receita.Models\\Receitas.Models.csproj"
+              "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj": {
+                "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\Receita.Models\\Receitas.Models.csproj": {
+    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\Receita.Models\\Receitas.Models.csproj",
-        "projectName": "Receitas.Models",
-        "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\Receita.Models\\Receitas.Models.csproj",
+        "projectUniqueName": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj",
+        "projectName": "Receita.Models",
+        "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj",
         "packagesPath": "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\Receita.Models\\obj\\",
+        "outputPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\ApiComEF\\ProjetoReceitas\\Receita.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amarildojunior_frwk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -132,7 +132,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.0, )"
             }

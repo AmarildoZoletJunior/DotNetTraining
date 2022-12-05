@@ -82,3 +82,13 @@ C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\
 C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\ProjetoReceitas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\ProjetoReceitas\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EstudosRec\EntityFramework\ProjetoReceitas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\obj\Debug\net6.0\ProjetoReceitas.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\obj\Debug\net6.0\refint\ProjetoReceitas.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\obj\Debug\net6.0\ProjetoReceitas.pdb
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\obj\Debug\net6.0\ProjetoReceitas.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\obj\Debug\net6.0\ProjetoReceitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\obj\Debug\net6.0\ProjetoReceitas.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\obj\Debug\net6.0\ProjetoReceitas.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\obj\Debug\net6.0\ProjetoReceitas.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\obj\Debug\net6.0\ProjetoReceitas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\obj\Debug\net6.0\ProjetoReceitas.MvcApplicationPartsAssemblyInfo.cache

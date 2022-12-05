@@ -27,7 +27,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Receita.Models\Receitas.Models.csproj" />
+    <ProjectReference Include="Receita.Models\Receita.Models.csproj" />
   </ItemGroup>
 
 </Project>

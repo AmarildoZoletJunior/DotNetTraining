@@ -1,0 +1,14 @@
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\Receita.Models\bin\Debug\net6.0\Receita.Models.deps.json
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\Receita.Models\bin\Debug\net6.0\Receita.Models.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\Receita.Models\bin\Debug\net6.0\Receita.Models.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\Receita.Models\bin\Debug\net6.0\Receita.Models.pdb
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\Receita.Models\obj\Debug\net6.0\Receita.Models.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\Receita.Models\obj\Debug\net6.0\Receita.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\Receita.Models\obj\Debug\net6.0\Receita.Models.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\Receita.Models\obj\Debug\net6.0\Receita.Models.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\Receita.Models\obj\Debug\net6.0\Receita.Models.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\Receita.Models\obj\Debug\net6.0\Receita.Models.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\Receita.Models\obj\Debug\net6.0\refint\Receita.Models.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\Receita.Models\obj\Debug\net6.0\Receita.Models.pdb
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\Receita.Models\obj\Debug\net6.0\Receita.Models.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório c#\EF\ApiComEF\ProjetoReceitas\Receita.Models\obj\Debug\net6.0\ref\Receita.Models.dll
