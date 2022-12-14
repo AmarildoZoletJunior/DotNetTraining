@@ -30,4 +30,6 @@
     <ProjectReference Include="Receita.Models\Receita.Models.csproj" />
   </ItemGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
+
 </Project>

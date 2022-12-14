@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\Teste\\Teste.csproj": {}
+    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\EntityFramework\\Teste\\Teste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\Teste\\Teste.csproj": {
+    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\EntityFramework\\Teste\\Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\Teste\\Teste.csproj",
+        "projectUniqueName": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\EntityFramework\\Teste\\Teste.csproj",
         "projectName": "Teste",
-        "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\Teste\\Teste.csproj",
+        "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\EntityFramework\\Teste\\Teste.csproj",
         "packagesPath": "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\Teste\\obj\\",
+        "outputPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\EntityFramework\\Teste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amarildojunior_frwk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

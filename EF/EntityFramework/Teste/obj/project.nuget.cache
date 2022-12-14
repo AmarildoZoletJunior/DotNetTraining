@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M+RZTlcoYwHIdOAgFi5Q1ibjtcQf2Ybfrb4OxshrD5YAj5UUE7eDYTxeFk4YRHjvlxE3WGs9RHBlxHZfHz/TJQ==",
+  "dgSpecHash": "IZvsZVtUdvf/4UMo6IARl4acLVw81NY4bTtq/4tEWF7ovsZQswX1ws01nKwt9Sf5A2FgAwvb3VQy47z/Lru80A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EstudosRec\\EntityFramework\\Teste\\Teste.csproj",
+  "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\EntityFramework\\Teste\\Teste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
