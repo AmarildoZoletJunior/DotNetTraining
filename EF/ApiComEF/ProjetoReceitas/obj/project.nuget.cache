@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KxAwLsH/k4vopJFNFQ8tlaRfF9LfqDnINb5LJkJgGBQJE+lAjSgc3DEvi7qB7QUUEFNHrkDVgQKjbQq0dLMgzQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\EF\\ApiComEF\\ProjetoReceitas\\ProjetoReceitas.csproj",
+  "dgSpecHash": "sacrm5lxcCvQjl/XXLUrAXSMg2d9M6mtvUZ9suJ3gxXRN0oiVpuyzaFY94cr3ExTGgo15rBbiLTq+03Vx7xC1A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EF\\ApiComEF\\ProjetoReceitas\\ProjetoReceitas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -80,5 +80,15 @@
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EF\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EF\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

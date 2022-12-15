@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\Curso webAPI Macarotti\\ApiCatalogo\\ApiCatalogo.csproj": {}
+    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\Curso webAPI Macarotti\\ApiCatalogo\\ApiCatalogo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\Curso webAPI Macarotti\\ApiCatalogo\\ApiCatalogo.csproj": {
+    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\Curso webAPI Macarotti\\ApiCatalogo\\ApiCatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\Curso webAPI Macarotti\\ApiCatalogo\\ApiCatalogo.csproj",
+        "projectUniqueName": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\Curso webAPI Macarotti\\ApiCatalogo\\ApiCatalogo.csproj",
         "projectName": "ApiCatalogo",
-        "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\Curso webAPI Macarotti\\ApiCatalogo\\ApiCatalogo.csproj",
+        "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\Curso webAPI Macarotti\\ApiCatalogo\\ApiCatalogo.csproj",
         "packagesPath": "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório c#\\Curso webAPI Macarotti\\ApiCatalogo\\obj\\",
+        "outputPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\Curso webAPI Macarotti\\ApiCatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amarildojunior_frwk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
