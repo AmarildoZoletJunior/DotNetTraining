@@ -3,6 +3,7 @@ using ApiCatalogo.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.WebEncoders.Testing;
+using Swashbuckle.AspNetCore.Annotations;
 
 namespace ApiCatalogo.Controllers
 {
@@ -17,6 +18,7 @@ namespace ApiCatalogo.Controllers
         }
 
         [HttpGet("/Categorias")]
+
         public ActionResult<IEnumerable<Categoria>> Categorias()
         {
             var CategoriasPesquisada = _catalogoContext.Produtos.AsNoTracking().ToList();
@@ -28,11 +30,11 @@ namespace ApiCatalogo.Controllers
         }
 
         [HttpGet("/Categoria/{id:int}", Name = "ObterCategoria")]
-        public ActionResult<Produto> Categoria(int id)
+        public ActionResult<Categoria> Categoria(int id)
         {
             try
             {
-                var CategoriaPesquisada = _catalogoContext.Produtos.AsNoTracking().FirstOrDefault(x => x.ProdutoId == id);
+                var CategoriaPesquisada = _catalogoContext.Categorias.AsNoTracking().FirstOrDefault(x => x.CategoriaId == id);
                 if (CategoriaPesquisada == null)
                 {
                     return NotFound("Não foi encontrado nenhuma Categoria");

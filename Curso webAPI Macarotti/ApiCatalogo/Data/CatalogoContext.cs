@@ -1,10 +1,12 @@
 ﻿using ApiCatalogo.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 namespace ApiCatalogo.Data
 {
     public class CatalogoContext : DbContext
     {
+        private readonly IConfiguration _configuration;
         public CatalogoContext(DbContextOptions<CatalogoContext> options) : base(options) { }
 
         public DbSet<Categoria> Categorias {get;set;}

@@ -162,3 +162,4 @@ C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\Curso webAPI Mac
 C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\Curso webAPI Macarotti\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.pdb
 C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\Curso webAPI Macarotti\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.genruntimeconfig.cache
 C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\Curso webAPI Macarotti\ApiCatalogo\obj\Debug\net6.0\ref\ApiCatalogo.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\Curso webAPI Macarotti\ApiCatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
