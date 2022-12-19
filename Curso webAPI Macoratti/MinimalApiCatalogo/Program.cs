@@ -6,6 +6,7 @@ using MinimalApiCatalogo.Data;
 using MinimalApiCatalogo.DTO;
 using MinimalApiCatalogo.Models;
 using MinimalApiCatalogo.Validators;
+using System.ComponentModel.DataAnnotations;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -22,11 +23,16 @@ builder.Services.AddDbContext<DbClass>();
 var app = builder.Build();
 
 #region Categoria
-app.MapPost("/categorias", (DbClass db, Categoria categoria) =>
+app.MapPost("/categorias", (DbClass db, [Required]Categoria categoria) =>
 {
     var validation = new CategoriaValidation();
     var resultado = validation.Validate(categoria);
-    if(categoria != null && resultado.IsValid)
+    if (resultado.IsValid)
+    {
+        return Results.BadRequest("Algum campo da categoria não esta valido");
+    }
+
+    if(categoria != null)
     {
         db.Categorias.Add(categoria);
         db.SaveChanges();
@@ -38,7 +44,7 @@ app.MapPost("/categorias", (DbClass db, Categoria categoria) =>
 
 
 
-app.MapGet("/categoria/{id:int}", (DbClass db,int id) =>
+app.MapGet("/categoria/{id:int}", (DbClass db,[Required]int id) =>
 {
     var Pesquisa = db.Categorias.FirstOrDefault(X => X.Id == id);
     if (Pesquisa != null)
@@ -51,40 +57,40 @@ app.MapGet("/categoria/{id:int}", (DbClass db,int id) =>
 
 app.MapGet("/categorias", (DbClass db) =>
 {
-    var PesquisaTotal = db.Categorias.ToList();
+    var pesquisaTotal = db.Categorias.ToList();
     var dtoPesquisa = new List<CategoriaDTO>();
-    if(PesquisaTotal != null)
+    if(pesquisaTotal != null)
     {
-        dtoPesquisa = PesquisaTotal.Select(c => new CategoriaDTO { Nome = c.Nome, Descricao = c.Descricao, Id = c.Id}).ToList();
+        dtoPesquisa = pesquisaTotal.Select(c => new CategoriaDTO { Nome = c.Nome, Descricao = c.Descricao, Id = c.Id}).ToList();
         return Results.Ok(dtoPesquisa);
     }
     return Results.NotFound("Não foi encontrada nenhuma categoria");
 }).WithTags("Categorias");
 
-app.MapPut("/categorias/{id:int}", (DbClass db,int id,Categoria categoria) =>
+app.MapPut("/categorias", (DbClass db,[Required]Categoria categoria) =>
 {
     var validation = new CategoriaValidation();
     var resultado = validation.Validate(categoria);
-    if (id != categoria.Id)
-    {
-        return Results.NotFound("Id passado não é igual ao id fornecido no corpo");
-    }
-    var Pesquisa = db.Categorias.FirstOrDefault(x => x.Id == id);
-    if(Pesquisa == null || !resultado.IsValid)
-    {
-        return Results.NotFound("Categoria não encontrada");
-    }
+    if(resultado.IsValid)
+        return Results.BadRequest("Categoria está com campos invalido.");
+
+    var Pesquisa = db.Categorias.FirstOrDefault(x => x.Id == categoria.Id);
+
+    if(Pesquisa == null)
+        return Results.NoContent();
+ 
     db.Categorias.Update(categoria);
     db.SaveChanges();
     return Results.Ok(categoria);
 }).WithTags("Categorias");
 
 
-app.MapDelete("/categorias/{id:int}", (DbClass db, int id) =>
+app.MapDelete("/categorias/{id:int}", (DbClass db, [Required]int id) =>
 {
     var Pesquisa = db.Categorias.FirstOrDefault(x => x.Id == id);
     if (Pesquisa == null)
         return Results.NotFound("Não foi encontrado a categoria para remoção");
+
     db.Categorias.Remove(Pesquisa);
     db.SaveChanges();
     return Results.Ok("Removida com sucesso");
@@ -96,17 +102,17 @@ app.MapGet("/produtos", (DbClass db) =>
 {
     var Pesquisa = db.Produtos.ToList();
     var ProdDTO = new List<ProdutoDTO>();
-    if(Pesquisa != null)
+    if(Pesquisa.Any())
     {
         var ProdDto = db.Produtos.Include(x => x.Categoria).Select(x => new ProdutoDTO { Nome = x.Nome, Preco = x.Preco, DataCompra = x.DataCompra, Descricao = x.Descricao, Estoque = x.Estoque, ImagemI = x.ImagemI, CategoriaTipo = x.Categoria.Nome, Id = x.Id }).ToList();
         return Results.Ok(ProdDto);
     }
-    return Results.NotFound("Não foi encontrada nenhuma classe");
+    return Results.NoContent();
 
 }).WithTags("Produto");
 
 
-app.MapGet("/produto/{id:int}", (DbClass db, int id) =>
+app.MapGet("/produto/{id:int}", (DbClass db, [Required]int id) =>
 {
     var Pesquisa = db.Produtos.Include(x => x.Categoria).FirstOrDefault(x => x.Id == id);
     if(Pesquisa != null)
@@ -114,15 +120,17 @@ app.MapGet("/produto/{id:int}", (DbClass db, int id) =>
         var ProdDTO = new ProdutoDTO { Nome = Pesquisa.Nome, Preco = Pesquisa.Preco, DataCompra = Pesquisa.DataCompra, Descricao = Pesquisa.Descricao, Estoque = Pesquisa.Estoque, ImagemI = Pesquisa.ImagemI, CategoriaTipo = Pesquisa.Categoria.Nome, Id = Pesquisa.Id };
         return Results.Ok(ProdDTO);
     }
-    return Results.NotFound("Não foi encontrado o seu produto");
+    return Results.NoContent();
 }).WithTags("Produto");
 
-app.MapGet("/produtos/categoria/{id:int}", (DbClass db, int id) =>
+app.MapGet("/produtos/categoria/{id:int}", (DbClass db, [Required] int id) =>
 {
     var pesquisa = db.Categorias.Include(x => x.Produtos).FirstOrDefault(x => x.Id == id);
     if (pesquisa == null)
         return Results.NotFound("Esta categoria não existe");
-    if (pesquisa.Produtos.Count == 0) return Results.NotFound("Não existe produtos cadastrados nesta categoria");
+
+    if (pesquisa.Produtos == null) return Results.NotFound("Não existe produtos cadastrados nesta categoria");
+
     var ProdDTO = new List<ProdutoDTO>();
     ProdDTO = pesquisa.Produtos.Select(x => new ProdutoDTO { CategoriaTipo = pesquisa.Nome ,DataCompra = x.DataCompra, Descricao = x.Descricao, Estoque = x.Estoque, ImagemI = x.ImagemI, Nome = x.Nome, Preco = x.Preco, Id = x.Id }).ToList();
     return Results.Ok(ProdDTO);
@@ -130,11 +138,15 @@ app.MapGet("/produtos/categoria/{id:int}", (DbClass db, int id) =>
 
 
 
-app.MapPost("/produto", (DbClass db, Produto produto) =>
+app.MapPost("/produto", (DbClass db, [Required]Produto produto) =>
 {
     var validation = new ProdutoValidation();
     var resultado = validation.Validate(produto);
-    if (produto != null && resultado.IsValid)
+    if (resultado.IsValid)
+    {
+        return Results.BadRequest("Você deixou algum campo invalido");
+    }
+    if (produto != null)
     {
         db.Produtos.Add(produto);
         db.SaveChanges();
@@ -145,12 +157,17 @@ app.MapPost("/produto", (DbClass db, Produto produto) =>
 }).WithTags("Produto");
 
 
-app.MapPut("/produto/{id:int}", (DbClass db, int id,Produto produto) =>
+app.MapPut("/produto", (DbClass db, [Required] Produto produto) =>
 {
     var validation = new ProdutoValidation();
     var resultado = validation.Validate(produto);
-    var pesquisa = db.Produtos.AsNoTracking().FirstOrDefault(x => x.Id == id);
-    if(produto.Id == id && resultado.IsValid && pesquisa != null)
+    //Fazer validação antes do resultado
+    if (resultado.IsValid)
+    {
+        return Results.BadRequest("Existe campos invalidos");
+    }
+    var pesquisa = db.Produtos.AsNoTracking().FirstOrDefault(x => x.Id == produto.Id);
+    if(pesquisa != null)
     {
         db.Produtos.Update(produto);
         db.SaveChanges();
@@ -161,7 +178,7 @@ app.MapPut("/produto/{id:int}", (DbClass db, int id,Produto produto) =>
 }).WithTags("Produto");
 
 
-app.MapDelete("/produto/{id:int}", async (DbClass db, int id) =>
+app.MapDelete("/produto/{id:int}", async (DbClass db, [Required]int id) =>
 {
     var pesquisa = await db.Produtos.FirstOrDefaultAsync(x => x.Id == id);
     if(pesquisa != null)
