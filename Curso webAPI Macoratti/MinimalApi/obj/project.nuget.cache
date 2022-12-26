@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7vFXW61agZ1pYwS1VEIJtCHAzezU3KdiP5yMxa739sYMA3toRkvCJneLQgIhaz8JXDNoIda8PS5kQ3J6k49Rzw==",
+  "dgSpecHash": "N3BZ6rGDbVmtFvM6EDJ7KqE0KVb1xV4zj1viy1Dz9qHUFKqM2o11M4Uo5zvRdrMlf9vYMsXqAMdA6IOBJb9Y6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\Curso webAPI Macarotti\\MinimalApi\\MinimalApi.csproj",
+  "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\Curso webAPI Macoratti\\MinimalApi\\MinimalApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.1\\microsoft.entityframeworkcore.abstractions.7.0.1.nupkg.sha512",

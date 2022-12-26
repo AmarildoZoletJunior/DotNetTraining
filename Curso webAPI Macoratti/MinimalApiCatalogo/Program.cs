@@ -1,3 +1,4 @@
+using FluentValidation;
 using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -7,6 +8,7 @@ using MinimalApiCatalogo.DTO;
 using MinimalApiCatalogo.Models;
 using MinimalApiCatalogo.Validators;
 using System.ComponentModel.DataAnnotations;
+using System.Net;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,6 +16,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 #region Configurações
+
+builder.Services.AddValidatorsFromAssemblyContaining<Program>();
+builder.Services.AddFluentValidation();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<IConfig, Config>();
@@ -23,13 +28,21 @@ builder.Services.AddDbContext<DbClass>();
 var app = builder.Build();
 
 #region Categoria
-app.MapPost("/categorias", (DbClass db, [Required]Categoria categoria) =>
+app.MapPost("/categorias", (DbClass db, [Required]Categoria categoria,IValidator<Categoria> cat) =>
 {
-    var validation = new CategoriaValidation();
-    var resultado = validation.Validate(categoria);
-    if (resultado.IsValid)
+
+    //if (vali.IsValid)
+    //{
+    //    return Results.Ok();
+    //}
+    //return Results.ValidationProblem(vali.ToDictionary(), statusCode: (int)HttpStatusCode.UnprocessableEntity);
+
+
+
+    var vali = cat.Validate(categoria);
+    if (!vali.IsValid)
     {
-        return Results.BadRequest("Algum campo da categoria não esta valido");
+        return Results.ValidationProblem(vali.ToDictionary(), statusCode: (int)HttpStatusCode.UnprocessableEntity);
     }
 
     if(categoria != null)
@@ -190,6 +203,7 @@ app.MapDelete("/produto/{id:int}", async (DbClass db, [Required]int id) =>
     return Results.NotFound("Este produto não existe");
 }).WithTags("Produto");
 #endregion
+
 
 
 // Configure the HTTP request pipeline.

@@ -10,6 +10,8 @@
         "dependencies": {
           "FluentValidation": "11.4.0",
           "FluentValidation.AspNetCore": "11.2.2",
+          "Flunt.Br": "2.0.0",
+          "Flunt.Extensions.Br": "1.0.1",
           "Microsoft.EntityFrameworkCore.Design": "7.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.1",
@@ -82,6 +84,36 @@
           "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
             "assemblyVersion": "11.0.0.0",
             "fileVersion": "11.2.1.0"
+          }
+        }
+      },
+      "Flunt/2.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {
+            "assemblyVersion": "2.0.3.0",
+            "fileVersion": "2.0.3.0"
+          }
+        }
+      },
+      "Flunt.Br/2.0.0": {
+        "dependencies": {
+          "Flunt": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flunt.Br.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "Flunt.Extensions.Br/1.0.1": {
+        "dependencies": {
+          "Flunt": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flunt.Extensions.Br.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
           }
         }
       },
@@ -823,6 +855,27 @@
       "sha512": "sha512-WqR2kt0OidUCg9xS+YOoiDmdCu7EnYLLgQb/bX+5fTTVor+90dWmr1OdJaWlLZvg2nbwV9EfxA9FZp91+JmQtg==",
       "path": "fluentvalidation.dependencyinjectionextensions/11.2.1",
       "hashPath": "fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512"
+    },
+    "Flunt/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0AEzlD5GM7b9aNn+CjSU9T9dney9ZqIlmvBa5pmLjx5sxVH4MEv2f7yKNVLmpQ6mGgTl3vQHDwqWZEL0+sRb1A==",
+      "path": "flunt/2.0.3",
+      "hashPath": "flunt.2.0.3.nupkg.sha512"
+    },
+    "Flunt.Br/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OdURuAJ00wbtbRFbg32hJSx3ZENibuwQ7ayTzaI/oeMWtTQBjr3zhfb/bSipPDsIIK/sMoxdbmZzh3j7bcGyjQ==",
+      "path": "flunt.br/2.0.0",
+      "hashPath": "flunt.br.2.0.0.nupkg.sha512"
+    },
+    "Flunt.Extensions.Br/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ff/UNcRT7hDAD8jfOD9xHULge4yAqFHghVmEuFPMFZclntwIWShyciME7k3slQ/5p94zgb2DeiG3xHTTN05Xyw==",
+      "path": "flunt.extensions.br/1.0.1",
+      "hashPath": "flunt.extensions.br.1.0.1.nupkg.sha512"
     },
     "Humanizer.Core/2.14.1": {
       "type": "package",
