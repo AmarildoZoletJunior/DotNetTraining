@@ -62,7 +62,11 @@ SELECT * FROM montadora
 
 
 --Visualizando uma tabela com nome do cliente, nome do carro e montadora
-CREATE VIEW lista_carro_cliente AS SELECT  concat(a.primeiro_nome,' ',a.ultimo_nome) AS Nome_Completo, b.nome_carro, c.nome_montadora FROM cliente a INNER JOIN carro_cliente d ON d.id_cliente = a.id_cliente INNER JOIN carro_montadora b ON b.id_carro = d.id_carro INNER JOIN montadora c ON c.id_montadora = b.id_montadora
+CREATE VIEW lista_carro_cliente AS SELECT  concat(a.primeiro_nome,' ',a.ultimo_nome) AS Nome_Completo, 
+b.nome_carro, c.nome_montadora 
+FROM cliente a INNER JOIN carro_cliente d ON d.id_cliente = a.id_cliente INNER JOIN 
+carro_montadora b ON b.id_carro = d.id_carro INNER JOIN
+montadora c ON c.id_montadora = b.id_montadora
 
 
 -- Visualizando a view criada 
