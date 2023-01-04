@@ -2,6 +2,8 @@
 
 namespace TesteComEf.Controllers
 {
+    [ApiController]
+    [Route("Usuario/[Controller]")]
     public class UsuarioController : ControllerBase
     {
     }

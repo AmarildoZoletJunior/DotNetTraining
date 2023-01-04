@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YDV4UKp0x8nnweLONKf0Ftj9XJ19UQL4DG9UBqZMVO5+tCW9dtgv3r4XES90nHdV9vvYdry8NcOrwiWK0nmaYw==",
+  "dgSpecHash": "deqoWDj07SEouaIgDiNLXPDOP9+F6Gvd9IFekwIx0GH1d7x45SA+F+ruJ8jv3B/ZOhVxFGnnpDfpojcxCXx9dg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EfEDapper\\ApiComDapper\\TesteDapper\\TesteDapper.csproj",
+  "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComDapper\\PrimeiraApiComDapper\\PrimeiraApiComDapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

@@ -1,3 +1,5 @@
+using TesteComEf.Repository.Favoritos;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,7 +8,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
+builder.Services.AddScoped<IFavoritos,Favoritos>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

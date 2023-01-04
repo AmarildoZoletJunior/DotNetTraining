@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\Curso webAPI Macoratti\\MinimalApiCatalogo\\MinimalApiCatalogo.csproj": {}
+    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\MinimalApiCatalogoComEf\\MinimalApiCatalogo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\Curso webAPI Macoratti\\MinimalApiCatalogo\\MinimalApiCatalogo.csproj": {
+    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\MinimalApiCatalogoComEf\\MinimalApiCatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\Curso webAPI Macoratti\\MinimalApiCatalogo\\MinimalApiCatalogo.csproj",
+        "projectUniqueName": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\MinimalApiCatalogoComEf\\MinimalApiCatalogo.csproj",
         "projectName": "MinimalApiCatalogo",
-        "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\Curso webAPI Macoratti\\MinimalApiCatalogo\\MinimalApiCatalogo.csproj",
+        "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\MinimalApiCatalogoComEf\\MinimalApiCatalogo.csproj",
         "packagesPath": "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\Curso webAPI Macoratti\\MinimalApiCatalogo\\obj\\",
+        "outputPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\MinimalApiCatalogoComEf\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amarildojunior_frwk\\AppData\\Roaming\\NuGet\\NuGet.Config",

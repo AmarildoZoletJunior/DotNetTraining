@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EfEDapper\\ApiComDapper\\TesteDapper\\TesteDapper.csproj": {}
+    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComDapper\\PrimeiraApiComDapper\\TesteDapper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EfEDapper\\ApiComDapper\\TesteDapper\\TesteDapper.csproj": {
+    "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComDapper\\PrimeiraApiComDapper\\TesteDapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EfEDapper\\ApiComDapper\\TesteDapper\\TesteDapper.csproj",
+        "projectUniqueName": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComDapper\\PrimeiraApiComDapper\\TesteDapper.csproj",
         "projectName": "TesteDapper",
-        "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EfEDapper\\ApiComDapper\\TesteDapper\\TesteDapper.csproj",
+        "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComDapper\\PrimeiraApiComDapper\\TesteDapper.csproj",
         "packagesPath": "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EfEDapper\\ApiComDapper\\TesteDapper\\obj\\",
+        "outputPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComDapper\\PrimeiraApiComDapper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amarildojunior_frwk\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -2,6 +2,8 @@
 
 namespace TesteComEf.Controllers
 {
+    [ApiController]
+    [Route("IngredientesReceita/[Controller]")]
     public class IngredienteReceitaController : ControllerBase
     {
     }
