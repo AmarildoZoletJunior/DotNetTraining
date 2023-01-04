@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FactoryMethods": {
+      "commandName": "Project",
+      "commandLineArgs": "eats"
+    }
+  }
+}

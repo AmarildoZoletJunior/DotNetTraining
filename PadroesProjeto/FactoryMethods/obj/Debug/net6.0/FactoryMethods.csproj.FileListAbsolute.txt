@@ -1,0 +1,15 @@
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\PadroesProjeto\FactoryMethods\bin\Debug\net6.0\FactoryMethods.exe
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\PadroesProjeto\FactoryMethods\bin\Debug\net6.0\FactoryMethods.deps.json
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\PadroesProjeto\FactoryMethods\bin\Debug\net6.0\FactoryMethods.runtimeconfig.json
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\PadroesProjeto\FactoryMethods\bin\Debug\net6.0\FactoryMethods.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\PadroesProjeto\FactoryMethods\bin\Debug\net6.0\FactoryMethods.pdb
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\PadroesProjeto\FactoryMethods\obj\Debug\net6.0\FactoryMethods.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\PadroesProjeto\FactoryMethods\obj\Debug\net6.0\FactoryMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\PadroesProjeto\FactoryMethods\obj\Debug\net6.0\FactoryMethods.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\PadroesProjeto\FactoryMethods\obj\Debug\net6.0\FactoryMethods.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\PadroesProjeto\FactoryMethods\obj\Debug\net6.0\FactoryMethods.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\PadroesProjeto\FactoryMethods\obj\Debug\net6.0\FactoryMethods.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\PadroesProjeto\FactoryMethods\obj\Debug\net6.0\refint\FactoryMethods.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\PadroesProjeto\FactoryMethods\obj\Debug\net6.0\FactoryMethods.pdb
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\PadroesProjeto\FactoryMethods\obj\Debug\net6.0\FactoryMethods.genruntimeconfig.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\PadroesProjeto\FactoryMethods\obj\Debug\net6.0\ref\FactoryMethods.dll

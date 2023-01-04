@@ -111,6 +111,9 @@ Restaurar o arquivo  treino.bak no banco de dados criado.
 */
 USE MASTER
 RESTORE DATABASE TREINO FROM DISK =N'C:\Users\amarildojunior_frwk\TREINO.BAK' WITH REPLACE
+
+
+
 /*
 EXERCÍCIO 3 
 Liste todos os clientes com seus nomes e com suas respectivas cidade e estados
@@ -121,6 +124,9 @@ SELECT * FROM CLIENTE
 SELECT * FROM CIDADE
 SELECT A.NOME_CLIENTE,A.ID_CIDADE,A.CEP,B.UF,B.NOME_CIDADE,A.ENDERECO FROM cliente A inner join cidade B on B.ID_CIDADE = A.ID_CIDADE
 
+
+
+
 /*
 EXERCÍCIO 4 
 Liste o código do produto, descrição do produto e descrição das categorias dos produtos que tenham o valor unitário na 
@@ -130,6 +136,9 @@ faixa de R$ 10,00 a R$ 1500
 SELECT * FROM PRODUTOS
 SELECT * FROM CATEGORIA
 SELECT B.NOME_CATEGORIA,A.ID_PROD,A.NOME_PRODUTO,A.PRECO FROM PRODUTOS A INNER JOIN CATEGORIA B ON B.ID_CATEGORIA = A.ID_CATEGORIA WHERE A.PRECO >= 10.00 AND A.PRECO <= 1500.00 ORDER BY A.PRECO
+
+
+
 
 /*
 EXERCÍCIO 5 
@@ -144,6 +153,8 @@ SELECT B.NOME_CATEGORIA,A.ID_PROD,A.NOME_PRODUTO,A.PRECO,
 (CASE WHEN A.PRECO >= 500 AND A.PRECO <= 1000 THEN 'Preco entre 500 a 1000' ELSE
 (CASE WHEN A.PRECO > 1000 THEN 'Preco maior que 1000' END)END)END) AS FaixaDePreco FROM PRODUTOS A INNER JOIN CATEGORIA B ON B.ID_CATEGORIA = A.ID_CATEGORIA ORDER BY PRECO
 
+
+
 /*
 EXERCÍCIO  6
 Adicione a coluna faixa_salario na tabela vendedor tipo char(1)
@@ -153,6 +164,10 @@ ALTER TABLE VENDEDORES ADD FAIXA_SALARIO char(1)
 SELECT * FROM VENDEDORES
 
 COMMIT 
+
+
+
+
 /*
 EXERCÍCIO 7 
 Atualize o valor do campo faixa_salario da tabela vendedor com um update condicional .
@@ -170,11 +185,16 @@ UPDATE VENDEDORES set FAIXA_SALARIO = CASE WHEN SALARIO < 1000 THEN 'C' WHEN SAL
 --VERIFICANDO SE FICOU CERTO
 select * from vendedores
 
+
+
 /*
 EXERCÍCIO 8
 Listar em ordem alfabética os vendedores e seus respectivos salários, mais uma coluna, simulando aumento de 12% em seus salários.
 */
 SELECT *,((A.SALARIO * 0.12) + A.SALARIO) AS Aplicacao FROM VENDEDORES A order by A.NOME_VENDEDOR
+
+
+
 
 /*EXERCÍCIO 9
 Listar os nome dos vendedores, salário atual , coluna calculada com salario novo + reajuste de 18% sobre o salário atual, calcular  a coluna acréscimo e calcula uma coluna salario novo+ acresc.
@@ -184,23 +204,36 @@ Se o vendedor for  da faixa “C”, aplicar  R$ 120 de acréscimo , outras faixas de
 
 SELECT A.NOME_VENDEDOR,A.SALARIO,((A.SALARIO * 0.18) + A.SALARIO) AS Reajuste,(CASE WHEN A.FAIXA_SALARIO = 'C' THEN 120 WHEN A.FAIXA_SALARIO != 'C' THEN 0 END) as Acrescimo,(CASE WHEN A.FAIXA_SALARIO = 'C' THEN (A.SALARIO + 120)+(A.SALARIO * 0.18) WHEN A.FAIXA_SALARIO != 'C' THEN (A.SALARIO + (A.SALARIO * 0.18)) END) as SalarioNovo from VENDEDORES A
 
+
+
 /*
 EXERCÍCIO 10
 Listar o nome e salários do vendedor com menor salario.
 */
 SELECT top 1 * FROM VENDEDORES A order by A.SALARIO asc
+
+
+
+
 /*
 EXERCÍCIO 11
 Quantos vendedores ganham acima de R$ 2.000,00 de salário fixo?
 */
 select count(*) from VENDEDORES a where a.SALARIO > 2000.00
 select * from vendedores
+
+
+
+
 /*
 EXERCÍCIO 12
 Adicione o campo valor_total tipo decimal(10,2) na tabela venda.
 */
 alter table VENDAS add valor_total decimal(10,2)
 select * from vendas
+
+
+
 /*
 EXERCÍCIO 13
 Atualize o campo valor_tota da tabela venda, com a soma dos produtos das respectivas vendas.
@@ -208,6 +241,9 @@ Atualize o campo valor_tota da tabela venda, com a soma dos produtos das respect
 select * from VENDA_ITENS
 select * from vendas
 update vendas set valor_total = (select sum(a.VAL_TOTAL) from venda_itens a where a.NUM_VENDA = vendas.NUM_VENDA)
+
+
+
 /*
 EXERCÍCIO 14
 Realize a conferencia do exercício anterior, certifique-se que o valor  total de cada venda e igual ao valor total da soma dos  produtos da venda, listar as vendas em que ocorrer diferença.
@@ -218,6 +254,8 @@ select * from venda_itens
 --Selecionado
 select a.NUM_VENDA,a.VALOR_TOTAL,SUM(B.VAL_TOTAL)total_itens from vendas a inner join venda_itens b on a.num_venda = b.num_venda group by a.num_venda,a.valor_total having a.valor_total = sum(b.val_total)
 
+
+
 /*
 EXERCÍCIO 15
 Listar o número de produtos existentes, valor total , média do valor unitário referente ao mês 07/2018 agrupado por venda.
@@ -226,11 +264,17 @@ select * from vendas where month(vendas.data_venda) = 7
 select * from venda_itens
 select * from vendas
 select A.NUM_VENDA,A.VALOR_TOTAL,COUNT(B.NUM_SEQ) QTD_PRODS,SUM(B.QTDE) QTDE,AVG(B.VAL_UNIT) AS VALOR_MEDIO from vendas a inner join venda_itens b on a.NUM_VENDA = B.NUM_VENDA WHERE Month(a.DATA_VENDA) = 7 AND YEAR(A.DATA_VENDA) = 2018 GROUP BY A.NUM_VENDA,A.VALOR_TOTAL
+
+
+
+
 /*
 EXERCÍCIO 16
 Listar o número de vendas, Valor do ticket médio, menor ticket e maior ticket referente ao mês 07/2017.
 */
 SELECT COUNT(*) NUMERO_VENDAS,AVG(A.VALOR_TOTAL) AS VALOR_MEDIO,MIN(A.VALOR_TOTAL),MAX(A.VALOR_TOTAL) FROM VENDAS A WHERE MONTH(A.DATA_VENDA) = 7 AND YEAR(A.DATA_VENDA) = 2017
+
+
 
 
 /*
@@ -241,17 +285,25 @@ Atualize o status das notas abaixo de normal(N) para cancelada (C)
 SELECT * FROM VENDAS
 UPDATE VENDAS SET VENDAS.STATUS = 'C' WHERE NUM_VENDA IN (15,34,80,104,130,159,180,240,350,420,422,450,480,510,530,560,600,640,670,714)
 
+
+
 /*
 EXERCÍCIO 18
 Quais clientes realizaram mais de 70 compras?
 */
 SELECT COUNT(A.ID_CLIENTE) AS QUANTIDADE_COMPRA,A.ID_CLIENTE FROM VENDAS A GROUP BY A.ID_CLIENTE ORDER BY QUANTIDADE_COMPRA DESC
+
+
+
 /*EXERCÍCIO 19
 Listar os produtos que estão incluídos em vendas que a quantidade total de produtos seja superior a 100 unidades.
 */
 SELECT * FROM VENDAS
 SELECT * FROM VENDA_ITENS
 SELECT SUM(QTDE) AS QUANTIDADE,A.NUM_VENDA FROM VENDA_ITENS A GROUP BY A.NUM_VENDA HAVING SUM(QTDE) > 100
+
+
+
 /*
 EXERCÍCIO 20
 Trazer total de vendas do ano 2017 por categoria e apresentar total geral
@@ -261,37 +313,88 @@ SELECT * FROM VENDAS
 SELECT * FROM CATEGORIA
 SELECT * FROM PRODUTOS
 SELECT ISNULL(B.NOME_CATEGORIA,'TOTAL'),COUNT(A.ID_PROD) AS TOTAL_VENDA,SUM(A.VAL_TOTAL) AS QUANTIDADE_TOTAL_POR_CATEGORIA FROM VENDA_ITENS A INNER JOIN PRODUTOS C ON C.ID_PROD = A.ID_PROD INNER JOIN CATEGORIA B ON B.ID_CATEGORIA = C.ID_CATEGORIA INNER JOIN VENDAS D ON D.NUM_VENDA = A.NUM_VENDA WHERE YEAR(D.DATA_VENDA) = 2017 GROUP BY ROLLUP (B.NOME_CATEGORIA)
+
+
+
 /*
 EXERCÍCIO 21
 Listar total de vendas do ano 2017 por categoria e mês a mês apresentar subtotal dos meses e total geral ano.
 */
-SELECT 
+SELECT ISNULL(SUBSTRING(CONVERT(VARCHAR(10),D.DATA_VENDA,103),4,10),'TOTAL'),ISNULL(B.NOME_CATEGORIA,'TOTAL'),SUM(A.VAL_TOTAL) AS QUANTIDADE_TOTAL_POR_CATEGORIA FROM VENDA_ITENS A INNER JOIN PRODUTOS C ON C.ID_PROD = A.ID_PROD INNER JOIN CATEGORIA B ON B.ID_CATEGORIA = C.ID_CATEGORIA INNER JOIN VENDAS D ON D.NUM_VENDA = A.NUM_VENDA WHERE YEAR(D.DATA_VENDA) = 2017 GROUP BY ROLLUP (SUBSTRING(CONVERT(VARCHAR(10),D.DATA_VENDA,103),4,10),B.NOME_CATEGORIA)
+
+
+
 /*
 EXERCÍCIO 22
 Listar total de vendas por vendedores referente ao ano 2017, mês a mês apresentar subtotal do mês e total geral.
 */
+SELECT * FROM VENDEDORES,VENDA_ITENS
+SELECT * FROM VENDAS
+SELECT ISNULL(A.NOME_VENDEDOR,'VENDA COM TOTAL DE TODOS'),ISNULL(SUBSTRING(CONVERT(VARCHAR(10),B.DATA_VENDA,103),4,10),'TOTAL VENDA') AS DATA_VENDAS,SUM(C.VAL_TOTAL) AS QUANTIDADE_VENDIDA FROM VENDEDORES A INNER JOIN VENDAS B ON A.ID_VENDEDOR = B.ID_VENDEDOR INNER JOIN VENDA_ITENS C ON C.NUM_VENDA = B.NUM_VENDA WHERE YEAR(DATA_VENDA) = 2017 GROUP BY ROLLUP (A.NOME_VENDEDOR,SUBSTRING(CONVERT(VARCHAR(10),B.DATA_VENDA,103),4,10))
+
 
 /*
 EXERCÍCIO 23
 Listar os top 10 produtos mais vendidos por valor total de venda com suas respectivas categorias
 */
+SELECT * FROM CATEGORIA
+SELECT * FROM PRODUTOS
+SELECT sum(a.val_total) as total FROM VENDA_ITENS a inner join vendas b on b.NUM_VENDA = A.NUM_VENDA  group by a.NUM_VENDa
+select * from VENDA_ITENS
+select * from vendas
+SELECT TOP 10 A.ID_PROD,C.NOME_CATEGORIA,B.NOME_PRODUTO,B.PRECO AS PRECO_UNITARIO,SUM(A.QTDE) AS QUANTIDADE_VENDIDA,(SUM(A.QTDE) *  B.PRECO) AS VALOR_TOTAL FROM VENDA_ITENS A  INNER JOIN PRODUTOS B ON B.ID_PROD = A.ID_PROD INNER JOIN CATEGORIA C ON B.ID_CATEGORIA = C.ID_CATEGORIA GROUP BY A.ID_PROD,B.NOME_PRODUTO,C.NOME_CATEGORIA,B.PRECO ORDER BY VALOR_TOTAL DESC
+
+
+
 
 /*
 EXERCÍCIO 24
 Listar os top 10 produtos mais vendidos por valor total de venda com suas respectivas categorias, calcular seu percentual de participação com relação ao total geral.
 */
+declare @total decimal(10,2);
+select @total = sum(x.valor_total) from vendas x where year(x.data_venda) = 2017
+SELECT A.ID_PROD,C.NOME_CATEGORIA,B.NOME_PRODUTO,B.PRECO AS PRECO_UNITARIO,SUM(A.QTDE) AS QUANTIDADE_VENDIDA,SUM(A.VAL_TOTAL) AS VALOR_TOTAL,(100/@total*sum(a.VAL_TOTAL)) as porcentagem FROM VENDA_ITENS A  INNER JOIN PRODUTOS B ON B.ID_PROD = A.ID_PROD INNER JOIN CATEGORIA C ON B.ID_CATEGORIA = C.ID_CATEGORIA inner join vendas d on d.NUM_VENDA = a.NUM_VENDA where  d.STATUS = 'N' GROUP BY A.ID_PROD,B.NOME_PRODUTO,C.NOME_CATEGORIA,B.PRECO ORDER BY VALOR_TOTAL DESC
+
+
 
 /*
 EXERCÍCIO 25
 Listar apenas o produto mais vendido de cada Mês com seu  valor total referente ao ano de 2017.
 */
+-- etapa 1
+select month(a.data_venda) as MES,b.ID_PROD,sum(b.val_total) as valor into #etapa1 from vendas a inner join venda_itens b on a.NUM_VENDA = b.NUM_VENDA where year(a.data_venda) = 2017 group by month(a.data_venda),b.ID_PROD order by month(a.data_venda) asc,3 desc
+
+--etapa 2
+select ROW_NUMBER() over (partition by mes order by mes asc,valor desc) POSICAO,MES,ID_PROD,VALOR into #etapa2 from #etapa1
+
+
+--etapa 3
+select a.POSICAO,a.MES,b.nome_produto,a.valor from #etapa2 a inner join produtos b on a.ID_PROD = b.ID_PROD where a.POSICAO = 1 order by a.MES
+
+
+--drops
+
+drop table #etapa1,#etapa2
+
 
 /*
 EXERCÍCIO 26
 Lista o cliente e a data da última compra de cada cliente.
 */
 
+--minha solução
+select a.id_cliente,a.nome_cliente,max(b.data_venda) as ULTIMA_COMPRA from cliente a inner join vendas b on a.ID_CLIENTE = b.ID_CLIENTE group by a.id_cliente,a.nome_cliente order by ULTIMA_COMPRA
+--solução resposta
+select a.ID_CLIENTE,a.NOME_CLIENTE,b.DATA_VENDA,b.NUM_VENDA from (select id_cliente,max(data_venda) as data_venda from vendas where STATUS='N' group by id_cliente) as x inner join CLIENTE a on a.ID_CLIENTE = x.ID_CLIENTE inner join VENDAS b on a.ID_CLIENTE = b.ID_CLIENTE AND a.ID_CLIENTE = x.ID_CLIENTE and b.DATA_VENDA = X.data_venda
 /*
+
+
+
 EXERCÍCIO 27
-Lista o a data da última venda de cada produto.
+Lista o produto e a data da última venda de cada produto.
 */
+--minha solução
+select a.id_prod,c.NOME_PRODUTO,max(b.data_venda) from vendas b inner join VENDA_ITENS a on b.NUM_VENDa = a.NUM_VENDA inner join produtos c on c.id_prod = a.ID_PROD group by a.id_prod,c.NOME_PRODUTO order by a.id_prod
+
+--solução resposta
+select a.id_prod,a.nome_produto,T1.data_venda from produtos a inner join(select c.id_prod,max(b.data_venda) as data_venda from vendas b inner join venda_itens c on b.NUM_VENDA = C.NUM_VENDA GROUP BY C.ID_PROD) T1 ON A.ID_PROD= T1.ID_PROD
