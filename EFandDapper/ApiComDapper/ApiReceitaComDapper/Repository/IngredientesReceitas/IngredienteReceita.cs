@@ -1,12 +1,30 @@
-﻿using TesteComEf.DTO;
-using TesteComEf.Entidades.IngredientesReceitas;
+﻿using ApiReceitaComDapper.DTO;
+using ApiReceitaComDapper.Entidades.IngredientesReceitas;
 
-namespace TesteComEf.Repository.IngredientesReceitas
+namespace ApiReceitaComDapper.Repository.IngredientesReceitas
 {
-    public interface IngredienteReceita
+    public class IngredienteReceita : IIngredienteReceita
     {
-        Task<IEnumerable<IngredientesReceitaResponse>> ListarIngredientesReceita(int idReceita);
-        Task<bool> AdicionarIngredientes(List<IngredientesReceitaRequest> ingredientes, int idReceita);
-        Task<bool> RemoverIngredientes(List<IngredientesReceitaRequest> ingredientes, int idReceita);
+        public IConfiguration config { get; }
+        private readonly string connection;
+        public IngredienteReceita(IConfiguration configuration)
+        {
+            config = configuration;
+            connection = config.GetConnectionString("ConexaoBancoReceita");
+        }
+        public Task<bool> AdicionarIngredientes(List<IngredientesReceitaRequest> ingredientes, int idReceita)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<IEnumerable<IngredientesReceitaResponse>> ListarIngredientesReceita(int idReceita)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<bool> RemoverIngredientes(List<IngredientesReceitaRequest> ingredientes, int idReceita)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

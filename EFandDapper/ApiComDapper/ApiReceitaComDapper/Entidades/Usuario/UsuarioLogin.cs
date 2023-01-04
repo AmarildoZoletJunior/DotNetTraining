@@ -1,4 +1,4 @@
-﻿namespace TesteComEf.Entidades.Usuario
+﻿namespace ApiReceitaComDapper.Entidades.Usuario
 {
     public class UsuarioLogin
     {

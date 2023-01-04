@@ -1,4 +1,4 @@
-﻿namespace TesteComEf.Entidades.IngredientesReceitas
+﻿namespace ApiReceitaComDapper.Entidades.IngredientesReceitas
 {
     public class IngredientesReceitaRequest
     {

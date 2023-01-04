@@ -1,4 +1,4 @@
-﻿namespace TesteComEf.Entidades.Favoritos
+﻿namespace ApiReceitaComDapper.Entidades.Favoritos
 {
     public class FavoritosRequest
     {

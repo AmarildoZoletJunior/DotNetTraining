@@ -1,6 +1,6 @@
-﻿using TesteComEf.DTO;
+﻿using ApiReceitaComDapper.DTO;
 
-namespace TesteComEf.Repository.Ingredientes
+namespace ApiReceitaComDapper.Repository.Ingredientes
 {
     public interface IIngrediente
     {

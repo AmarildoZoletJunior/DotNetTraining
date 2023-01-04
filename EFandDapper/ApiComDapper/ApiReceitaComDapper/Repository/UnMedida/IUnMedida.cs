@@ -1,6 +1,6 @@
-﻿using TesteComEf.DTO;
+﻿using ApiReceitaComDapper.DTO;
 
-namespace TesteComEf.Repository.UnMedida
+namespace ApiReceitaComDapper.Repository.UnMedida
 {
     public interface IUnMedida
     {

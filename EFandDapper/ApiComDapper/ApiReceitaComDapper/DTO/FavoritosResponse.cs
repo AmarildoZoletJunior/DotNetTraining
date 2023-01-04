@@ -1,4 +1,4 @@
-﻿namespace TesteComEf.DTO
+﻿namespace ApiReceitaComDapper.DTO
 {
     public class FavoritosResponse
     {

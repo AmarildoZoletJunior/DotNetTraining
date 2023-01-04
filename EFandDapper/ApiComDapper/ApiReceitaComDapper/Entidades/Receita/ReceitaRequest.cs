@@ -1,4 +1,4 @@
-﻿namespace TesteComEf.Entidades.Receita
+﻿namespace ApiReceitaComDapper.Entidades.Receita
 {
     public class ReceitaRequest
     {

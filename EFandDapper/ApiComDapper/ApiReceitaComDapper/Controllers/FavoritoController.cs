@@ -1,8 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using ApiReceitaComDapper.Entidades.Favoritos;
+using ApiReceitaComDapper.Repository.Favoritos;
+using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel.DataAnnotations;
-using TesteComEf.Repository.Favoritos;
 
-namespace TesteComEf.Controllers
+namespace ApiReceitaComDapper.Controllers
 {
     [ApiController]
     [Route("Favorito/[Controller]")]
@@ -16,10 +17,10 @@ namespace TesteComEf.Controllers
 
         [HttpGet("{id:int}")]
 
-        public async Task<IActionResult> ListarFavoritoUsuario([Required]int id)
+        public async Task<IActionResult> ListarFavoritoUsuario([Required] int id)
         {
             var lista = await _Ifav.FavoritosUsuario(id);
-            if(lista.Any())
+            if (lista.Any())
             {
                 return Ok(lista);
             }
@@ -36,6 +37,31 @@ namespace TesteComEf.Controllers
                 return Ok(lista);
             }
             return NotFound("Este usuario não existe");
+        }
+
+        [HttpPost]
+
+        public async Task<IActionResult> AdicionarFavoritos([Required][FromBody] FavoritosRequest favorito)
+        {
+            var insercao = await _Ifav.AdicionarFavoritos(favorito);
+            if (insercao)
+            {
+                return Ok("Adicionado com sucesso");
+            }
+            return BadRequest();
+        }
+
+        [HttpDelete("{idUsuario:int}")]
+
+        public async Task<IActionResult> RemoverFavoritos([Required] int idUsuario, [Required] int idReceita)
+        {
+            var remocao = await _Ifav.RemoverFavoritos(idUsuario, idReceita);
+
+            if (remocao)
+            {
+                return Ok("Deletado com sucesso");
+            }
+            return NotFound();
         }
     }
 }

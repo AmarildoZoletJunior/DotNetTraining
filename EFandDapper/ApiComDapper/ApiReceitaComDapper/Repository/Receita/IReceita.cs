@@ -1,7 +1,7 @@
-﻿using TesteComEf.DTO;
-using TesteComEf.Entidades.Receita;
+﻿using ApiReceitaComDapper.DTO;
+using ApiReceitaComDapper.Entidades.Receita;
 
-namespace TesteComEf.Repository.Receita
+namespace ApiReceitaComDapper.Repository.Receita
 {
     public interface IReceita
     {

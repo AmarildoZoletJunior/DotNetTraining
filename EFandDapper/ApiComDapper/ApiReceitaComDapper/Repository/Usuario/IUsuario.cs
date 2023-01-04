@@ -1,7 +1,7 @@
-﻿using TesteComEf.DTO;
-using TesteComEf.Entidades.Usuario;
+﻿using ApiReceitaComDapper.DTO;
+using ApiReceitaComDapper.Entidades.Usuario;
 
-namespace TesteComEf.Repository.Usuario
+namespace ApiReceitaComDapper.Repository.Usuario
 {
     public interface IUsuario
     {

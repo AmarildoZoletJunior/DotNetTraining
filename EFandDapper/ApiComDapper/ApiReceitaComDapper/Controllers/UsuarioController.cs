@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace TesteComEf.Controllers
+namespace ApiReceitaComDapper.Controllers
 {
     [ApiController]
     [Route("Usuario/[Controller]")]
