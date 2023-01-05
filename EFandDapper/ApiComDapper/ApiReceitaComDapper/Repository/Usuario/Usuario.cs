@@ -26,7 +26,7 @@ namespace ApiReceitaComDapper.Repository.Usuario
 
         public async Task<bool> CriarUsuario(UsuarioRequest usuario)
         {
-            var sql = $@"insert into Usuario values ({usuario.Nome},{usuario.Email},{usuario.Senha})";
+            var sql = $@"insert into Usuario(nome,email,senha) values ('{usuario.Nome}','amaril@mgilasd','{usuario.Senha}')";
             using (var con = new SqlConnection(connection))
             {
                 var insercao = await con.ExecuteAsync(sql);
@@ -54,10 +54,10 @@ namespace ApiReceitaComDapper.Repository.Usuario
 
         public async Task<bool> UsuarioExiste(string email)
         {
-            var sql = $@"select a.email from usuario where email = {email}";
+            var sql = $@"select a.email  from usuario a where email = '{email}'";
             using (var con = new SqlConnection(connection))
             {
-                var edicao = await con.QueryFirstOrDefault(sql);
+                var edicao = await con.QuerySingleOrDefaultAsync(sql);
                 if(edicao == null)
                 {
                     return false;
