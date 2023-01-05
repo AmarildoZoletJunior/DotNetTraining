@@ -14,9 +14,9 @@ namespace ApiReceitaComDapper.Repository.Favoritos
             config = configuration;
             connection = config.GetConnectionString("ConexaoBancoReceita");
         }
-        public async Task<bool> AdicionarFavoritos(FavoritosRequest request)
+        public async Task<bool> AdicionarFavoritos(int IdReceita,int IdUsuario)
         {
-            string sql = $@"Insert into Receitas_Favoritos (id_usuario,id_receita) values ({request.Id_Usuario},{request.Id_Receita})";
+            string sql = $@"Insert into Receitas_Favoritos (id_usuario,id_receita) values ({IdUsuario},{IdReceita})";
             using (var con = new SqlConnection(connection))
             {
                 var insercao = await con.ExecuteAsync(sql);

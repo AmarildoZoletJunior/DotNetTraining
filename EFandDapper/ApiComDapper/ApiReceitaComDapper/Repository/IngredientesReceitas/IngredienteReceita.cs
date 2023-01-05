@@ -45,7 +45,7 @@ namespace ApiReceitaComDapper.Repository.IngredientesReceitas
             }
         }
 
-        public Task<bool> RemoverIngredientes(List<IngredientesReceitaRequest> ingredientes, int idReceita)
+        public async Task<bool> RemoverIngredientes(List<IngredientesReceitaRequest> ingredientes, int idReceita)
         {
                 bool decisao = false;
             foreach(var ing in ingredientes)

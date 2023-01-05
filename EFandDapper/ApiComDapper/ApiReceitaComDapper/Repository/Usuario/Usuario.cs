@@ -1,5 +1,6 @@
 ﻿using ApiReceitaComDapper.DTO;
 using ApiReceitaComDapper.Entidades.Usuario;
+using Dapper;
 using System.Data.SqlClient;
 
 namespace ApiReceitaComDapper.Repository.Usuario
@@ -14,19 +15,55 @@ namespace ApiReceitaComDapper.Repository.Usuario
             connection = config.GetConnectionString("ConexaoBancoReceita");
         }
 
-        public Task<IEnumerable<UsuarioResponse>> ListaUsuarios()
+        public async Task<IEnumerable<UsuarioResponse>> ListaUsuarios()
         {
-            throw new NotImplementedException();
+           var sql =  $@"select * from Usuario";
+            using(var con = new SqlConnection(connection))
+            {
+                return await con.QueryAsync<UsuarioResponse>(sql);
+            }
         }
 
-        public Task<bool> CriarUsuario(UsuarioRequest usuario)
+        public async Task<bool> CriarUsuario(UsuarioRequest usuario)
         {
-            throw new NotImplementedException();
+            var sql = $@"insert into Usuario values ({usuario.Nome},{usuario.Email},{usuario.Senha})";
+            using (var con = new SqlConnection(connection))
+            {
+                var insercao = await con.ExecuteAsync(sql);
+                if(insercao > 0)
+                {
+                    return true;
+                }
+                return false;
+            }
         }
 
-        public Task<bool> EditarUsuario(UsuarioRequest usuario)
+        public async Task<bool> EditarUsuario(UsuarioRequest usuario)
         {
-            throw new NotImplementedException();
+            var sql = $@"update from Usuario (nome,senha) set nome = {usuario}, senha = {usuario.Senha}";
+            using (var con = new SqlConnection(connection))
+            {
+                var edicao = await con.ExecuteAsync(sql);
+                if(edicao > 0)
+                {
+                    return true;
+                }
+                return false;
+            }
+        }
+
+        public async Task<bool> UsuarioExiste(string email)
+        {
+            var sql = $@"select a.email from usuario where email = {email}";
+            using (var con = new SqlConnection(connection))
+            {
+                var edicao = await con.QueryFirstOrDefault(sql);
+                if(edicao == null)
+                {
+                    return false;
+                }
+                return true;
+            }
         }
     }
 }

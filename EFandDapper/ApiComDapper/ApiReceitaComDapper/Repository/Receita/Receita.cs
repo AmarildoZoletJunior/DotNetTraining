@@ -56,24 +56,34 @@ namespace ApiReceitaComDapper.Repository.Receita
             }
         }
 
-        public Task<IEnumerable<ReceitaResponse>> ListarReceitaComUnicoIngrediente()
+        public async Task<IEnumerable<ReceitaSemIngredienteResponse>> ListarReceitaContendoIngrediente(string ingredientes)
         {
-           
+            var sql = $@"select distinct a.id_receita,a.titulo_receita,a.rendimento,a.modo_preparo,a.id_usuarioDono from receita a inner join Ingrediente_Has_Receita b on a.id_receita = b.id_receita inner join Ingrediente c on c.id_ingrediente = b.id_ingrediente where c.id_ingrediente in ({ingredientes}) ";
+            using (var conn = new SqlConnection(connection))
+            {
+                return await conn.QueryAsync<ReceitaSemIngredienteResponse>(sql);
+            }
         }
 
-        public Task<IEnumerable<ReceitaResponse>> ListarReceitaComVariosIngredientes()
+        public async Task<IEnumerable<ReceitaSemIngredienteResponse>> ListarReceitas()
         {
-            throw new NotImplementedException();
-        }
-
-        public async Task<IEnumerable<ReceitaResponse>> ListarReceitas()
-        {
-            var ingredientes = $@"select p.ingrediente from Ingrediente_Has_Receita inner join ingrediente";
             var sql = $@"select * from receita;";
             using(var conn = new SqlConnection(connection))
             {
-                return await conn.QueryAsync<ReceitaResponse>(sql);
+                return await conn.QueryAsync<ReceitaSemIngredienteResponse>(sql);
             }
+        }
+        public async Task<IEnumerable<ReceitaSemIngredienteResponse>> ListarPorNome(string nome)
+        {
+            var sql = $@"select a.id_receita,a.titulo_receita,a.rendimento,a.modo_preparo,a.id_usuarioDono from receita a where titulo_receita like ('%{nome}%') ;";
+            using (var conn = new SqlConnection(connection))
+            {
+                return await conn.QueryAsync<ReceitaSemIngredienteResponse>(sql);
+            }
+        }
+        public async Task<ReceitaResponse> ReceitaSolo(int idReceita)
+        {
+            var sql = $@"";
         }
     }
 }

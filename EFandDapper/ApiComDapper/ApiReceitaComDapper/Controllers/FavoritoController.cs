@@ -41,9 +41,9 @@ namespace ApiReceitaComDapper.Controllers
 
         [HttpPost]
 
-        public async Task<IActionResult> AdicionarFavoritos([Required][FromBody] FavoritosRequest favorito)
+        public async Task<IActionResult> AdicionarFavoritos(int IdUsuario,int IdReceita)
         {
-            var insercao = await _Ifav.AdicionarFavoritos(favorito);
+            var insercao = await _Ifav.AdicionarFavoritos(IdReceita, IdUsuario);
             if (insercao)
             {
                 return Ok("Adicionado com sucesso");
