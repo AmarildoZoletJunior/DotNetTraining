@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 namespace ApiReceitaComDapper.Controllers
 {
     [ApiController]
-    [Route("Favorito/[Controller]")]
+    [Route("[Controller]")]
     public class FavoritoController : ControllerBase
     {
         private readonly IFavoritos _Ifav;
@@ -43,18 +43,28 @@ namespace ApiReceitaComDapper.Controllers
 
         public async Task<IActionResult> AdicionarFavoritos(int IdUsuario,int IdReceita)
         {
-            var insercao = await _Ifav.AdicionarFavoritos(IdReceita, IdUsuario);
-            if (insercao)
+            var busca = await _Ifav.ReceitaExiste(IdReceita);
+            if (busca)
             {
-                return Ok("Adicionado com sucesso");
+                var insercao = await _Ifav.AdicionarFavoritos(IdReceita, IdUsuario);
+                if (insercao)
+                {
+                    return Ok("Adicionado com sucesso");
+                }
+                return BadRequest();
             }
-            return BadRequest();
+            return NotFound("Esta receita não existe");
+     
         }
 
         [HttpDelete("{idUsuario:int}")]
 
         public async Task<IActionResult> RemoverFavoritos([Required] int idUsuario, [Required] int idReceita)
         {
+
+            var busca = await _Ifav.ReceitaExiste(idReceita);
+            if (busca)
+            {
             var remocao = await _Ifav.RemoverFavoritos(idUsuario, idReceita);
 
             if (remocao)
@@ -62,6 +72,8 @@ namespace ApiReceitaComDapper.Controllers
                 return Ok("Deletado com sucesso");
             }
             return NotFound();
+            }
+            return NoContent();
         }
     }
 }

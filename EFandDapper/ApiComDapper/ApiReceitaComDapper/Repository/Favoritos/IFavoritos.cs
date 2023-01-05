@@ -9,5 +9,7 @@ namespace ApiReceitaComDapper.Repository.Favoritos
         Task<IEnumerable<FavoritosResponse>> FavoritosUsuario(int idUsuario);
         Task<bool> AdicionarFavoritos(int idReceita, int IdUsuario);
         Task<bool> RemoverFavoritos(int idUsuario, int idReceita);
+
+        Task<bool> ReceitaExiste(int idReceita);
     }
 }

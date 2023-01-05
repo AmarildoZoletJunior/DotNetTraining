@@ -60,5 +60,19 @@ namespace ApiReceitaComDapper.Repository.Favoritos
                 return false;
             }
         }
+        public async Task<bool> ReceitaExiste(int idReceita)
+        {
+            var sql = $@"select * from Receita where id_receita = {idReceita}";
+            using (var conn = new SqlConnection(connection))
+            {
+                var existe = await conn.QuerySingleOrDefaultAsync(sql);
+                if (existe == null)
+                {
+                    return false;
+                }
+                return true;
+            }
+
+        }
     }
 }

@@ -15,7 +15,7 @@ namespace ApiReceitaComDapper.Repository.Ingredientes
         }
         public async Task<IEnumerable<IngredientesResponse>> ListarIngredientes()
         {
-            var sql = $@"select * from ingrediente";
+            var sql = $@"select   a.id_ingrediente as  IdIngrediente,a.ingrediente as NomeIngrediente from ingrediente a";
             using(var con = new SqlConnection(connection))
             {
                 return await con.QueryAsync<IngredientesResponse>(sql);
