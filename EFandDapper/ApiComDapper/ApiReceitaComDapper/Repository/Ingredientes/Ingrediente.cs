@@ -1,4 +1,6 @@
 ﻿using ApiReceitaComDapper.DTO;
+using Dapper;
+using System.Data.SqlClient;
 
 namespace ApiReceitaComDapper.Repository.Ingredientes
 {
@@ -11,9 +13,13 @@ namespace ApiReceitaComDapper.Repository.Ingredientes
             config = configuration;
             connection = config.GetConnectionString("ConexaoBancoReceita");
         }
-        public Task<IEnumerable<IngredientesResponse>> ListarIngredientes()
+        public async Task<IEnumerable<IngredientesResponse>> ListarIngredientes()
         {
-            
+            var sql = $@"select * from ingrediente";
+            using(var con = new SqlConnection(connection))
+            {
+                return await con.QueryAsync<IngredientesResponse>(sql);
+            }
         }
     }
 }

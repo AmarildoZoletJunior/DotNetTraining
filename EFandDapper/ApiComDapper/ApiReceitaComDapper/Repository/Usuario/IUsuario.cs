@@ -8,6 +8,5 @@ namespace ApiReceitaComDapper.Repository.Usuario
         Task<IEnumerable<UsuarioResponse>> ListaUsuarios();
         Task<bool> CriarUsuario(UsuarioRequest usuario);
         Task<bool> EditarUsuario(UsuarioRequest usuario);
-        Task<bool> LogarUsuario(UsuarioLogin usuario);
     }
 }

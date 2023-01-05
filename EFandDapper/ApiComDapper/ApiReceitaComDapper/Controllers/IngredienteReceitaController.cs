@@ -14,7 +14,5 @@ namespace ApiReceitaComDapper.Controllers
             _receita = receita;
         }
 
-        [HttpGet]
-        public async 
     }
 }

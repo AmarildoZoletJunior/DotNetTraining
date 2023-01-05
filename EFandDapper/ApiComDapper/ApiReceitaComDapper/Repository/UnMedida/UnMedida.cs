@@ -1,4 +1,6 @@
 ﻿using ApiReceitaComDapper.DTO;
+using Dapper;
+using System.Data.SqlClient;
 
 namespace ApiReceitaComDapper.Repository.UnMedida
 {
@@ -11,9 +13,13 @@ namespace ApiReceitaComDapper.Repository.UnMedida
             config = configuration;
             connection = config.GetConnectionString("ConexaoBancoReceita");
         }
-        public Task<IEnumerable<UnMedidaResponse>> ListarIngredientes()
+        public async Task<IEnumerable<UnMedidaResponse>> ListarIngredientes()
         {
-            throw new NotImplementedException();
+            var sql = $@"select * from un_medida";
+            using(var con = new SqlConnection(connection))
+            {
+                return await con.QueryAsync<UnMedidaResponse>(sql);  
+            }
         }
     }
 }
