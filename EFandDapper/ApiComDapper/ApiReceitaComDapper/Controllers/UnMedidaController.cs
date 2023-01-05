@@ -17,12 +17,12 @@ namespace ApiReceitaComDapper.Controllers
         [HttpGet]
         public async Task<IActionResult> ListarUnidades()
         {
-            var resultado = await _Unidade.ListarIngredientes();
+            var resultado = await _Unidade.ListarUnidades();
             if (resultado.Any())
             {
-                return NotFound("Nenhuma medida foi encontrada");
+                return Ok(resultado);
             }
-            return Ok(resultado);
+            return NotFound("Nenhuma medida foi encontrada");
         }
     }
 }

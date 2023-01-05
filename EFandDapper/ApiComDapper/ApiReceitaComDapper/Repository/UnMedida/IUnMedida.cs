@@ -4,6 +4,6 @@ namespace ApiReceitaComDapper.Repository.UnMedida
 {
     public interface IUnMedida
     {
-        Task<IEnumerable<UnMedidaResponse>> ListarIngredientes();
+        Task<IEnumerable<UnMedidaResponse>> ListarUnidades();
     }
 }

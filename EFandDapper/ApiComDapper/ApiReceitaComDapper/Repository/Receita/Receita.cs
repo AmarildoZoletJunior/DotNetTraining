@@ -83,7 +83,18 @@ namespace ApiReceitaComDapper.Repository.Receita
         }
         public async Task<ReceitaResponse> ReceitaSolo(int idReceita)
         {
-            var sql = $@"";
+            var sql = $@"select a.id_receita,a.titulo_receita,a.rendimento,a.modo_preparo,a.id_usuarioDono where id_receita = {idReceita}";
+            var sqlIngrediente = $@"select a.id_ingrediente,b.ingrediente,c.unidade,a.quantidadeIngrediente from Ingrediente_Has_Receita a inner join ingrediente b on b.id_ingrediente = a.id_ingrediente inner join Un_Medida c on c.id_Medida = a.id_medida inner join Receita d on d.id_receita = a.id_receita where d.id_receita = {idReceita}";
+            using(var conn = new SqlConnection(connection))
+            {
+                var receita = await conn.QueryFirstOrDefaultAsync<ReceitaSemIngredienteResponse>(sql);
+                if(receita == null)
+                {
+                    return null;
+                }
+                var lista = await conn.QueryAsync<IngredientesReceitaResponse>(sqlIngrediente);
+                return new ReceitaResponse { IdReceita = receita.IdReceita, IdUsuarioDono = receita.IdUsuarioDono, ModoPreparo = receita.ModoPreparo, Rendimento = receita.Rendimento, TituloReceita = receita.TituloReceita, IngredientesReceita = lista };
+            }
         }
     }
 }
