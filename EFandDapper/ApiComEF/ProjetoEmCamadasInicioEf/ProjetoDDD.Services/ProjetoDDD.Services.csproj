@@ -6,4 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjetoDDD.Domain\ProjetoDDD.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

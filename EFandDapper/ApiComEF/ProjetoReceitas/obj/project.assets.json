@@ -3786,7 +3786,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EF\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj",
+      "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj",
       "Microsoft.EntityFrameworkCore >= 7.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
@@ -3801,11 +3801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EF\\ApiComEF\\ProjetoReceitas\\ProjetoReceitas.csproj",
+      "projectUniqueName": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoReceitas\\ProjetoReceitas.csproj",
       "projectName": "ProjetoReceitas",
-      "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EF\\ApiComEF\\ProjetoReceitas\\ProjetoReceitas.csproj",
+      "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoReceitas\\ProjetoReceitas.csproj",
       "packagesPath": "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EF\\ApiComEF\\ProjetoReceitas\\obj\\",
+      "outputPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoReceitas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amarildojunior_frwk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3822,8 +3822,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EF\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj": {
-              "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EF\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj"
+            "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj": {
+              "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj"
             }
           }
         }
@@ -3894,8 +3894,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Não é possível encontrar o projeto 'C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EF\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EF\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj",
+      "message": "Não é possível encontrar o projeto 'C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj",
       "targetGraphs": [
         "net6.0"
       ]

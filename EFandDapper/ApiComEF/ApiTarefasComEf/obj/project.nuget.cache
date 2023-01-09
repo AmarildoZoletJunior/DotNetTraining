@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "71Z64pT5FnUUM4UPkHlcFAQONbdAJ4oP3NofPJO8jnOPL09ruQJiUxXP0RuEyIYjPTonhflmNDrkfvvnjJALgw==",
+  "dgSpecHash": "qDA4CnwKoOUpVdwAdYieYhCnE8L/E94v+LAFjEpvg+yO+AcBQNNttpsJ0//MeOJDKosYaUPO4X9jeHoZMi85SQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\Curso webAPI Macoratti\\TarefasApi\\TarefasApi.csproj",
+  "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ApiTarefasComEf\\TarefasApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",

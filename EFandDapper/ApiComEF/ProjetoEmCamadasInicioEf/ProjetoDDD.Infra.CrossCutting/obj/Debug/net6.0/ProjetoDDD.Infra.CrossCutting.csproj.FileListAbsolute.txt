@@ -1,0 +1,12 @@
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.CrossCutting\bin\Debug\net6.0\ProjetoDDD.Infra.CrossCutting.deps.json
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.CrossCutting\bin\Debug\net6.0\ProjetoDDD.Infra.CrossCutting.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.CrossCutting\bin\Debug\net6.0\ProjetoDDD.Infra.CrossCutting.pdb
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.CrossCutting\obj\Debug\net6.0\ProjetoDDD.Infra.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.CrossCutting\obj\Debug\net6.0\ProjetoDDD.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.CrossCutting\obj\Debug\net6.0\ProjetoDDD.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.CrossCutting\obj\Debug\net6.0\ProjetoDDD.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.CrossCutting\obj\Debug\net6.0\ProjetoDDD.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.CrossCutting\obj\Debug\net6.0\ProjetoDDD.Infra.CrossCutting.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.CrossCutting\obj\Debug\net6.0\refint\ProjetoDDD.Infra.CrossCutting.dll
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.CrossCutting\obj\Debug\net6.0\ProjetoDDD.Infra.CrossCutting.pdb
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.CrossCutting\obj\Debug\net6.0\ref\ProjetoDDD.Infra.CrossCutting.dll

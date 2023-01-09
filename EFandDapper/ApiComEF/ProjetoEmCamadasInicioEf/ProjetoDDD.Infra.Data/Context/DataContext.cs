@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ProjetoDDD.Domain.Entities;
+using ProjetoDDD.Infra.Data.Mapping;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,5 +16,9 @@ namespace ProjetoDDD.Infra.Data.Context
         }
         public DbSet<User> Usuarios { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new UserMap());
+        }
     }
 }

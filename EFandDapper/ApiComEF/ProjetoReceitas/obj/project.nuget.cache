@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sacrm5lxcCvQjl/XXLUrAXSMg2d9M6mtvUZ9suJ3gxXRN0oiVpuyzaFY94cr3ExTGgo15rBbiLTq+03Vx7xC1A==",
+  "dgSpecHash": "26KAqDo7HlfdY2/e1FqQApsi70H2BFbwW00wG4TKYRYX6hRAZPAsDoVryoIs0Kc+0jw1iZGHyICLZlf19wvZXw==",
   "success": false,
-  "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EF\\ApiComEF\\ProjetoReceitas\\ProjetoReceitas.csproj",
+  "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoReceitas\\ProjetoReceitas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -84,8 +84,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Não é possível encontrar o projeto 'C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EF\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EF\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj",
+      "message": "Não é possível encontrar o projeto 'C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoReceitas\\Receita.Models\\Receita.Models.csproj",
       "targetGraphs": [
         "net6.0"
       ]
