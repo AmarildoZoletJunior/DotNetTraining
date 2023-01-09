@@ -1,6 +1,8 @@
-﻿using ProjetoDDD.Domain.Entities;
+﻿using FluentValidation;
+using ProjetoDDD.Domain.Entities;
 using ProjetoDDD.Domain.Interfaces;
 using ProjetoDDD.Infra.Data.Context;
+using ProjetoDDD.Services.Validators;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,12 +21,14 @@ namespace ProjetoDDD.Infra.Data.Repository
 
         public  void AdicionarUsuario(User usuario)
         {
+            Validate(usuario, Activator.CreateInstance<UserValidator>());
             _data.Usuarios.Add(usuario);
             _data.SaveChanges();
         }
 
         public void EditarUsuario(User usuario)
         {
+            Validate(usuario, Activator.CreateInstance<UserValidator>());
             _data.Usuarios.Update(usuario);
             _data.SaveChanges();
         }
@@ -48,5 +52,12 @@ namespace ProjetoDDD.Infra.Data.Repository
                 _data.SaveChanges();
             }
         }
+        private void Validate(User usuario, AbstractValidator<User> validator)
+        {
+            if(usuario == null)
+                  throw new Exception("Registros não detectados");
+
+            validator.ValidateAndThrow(usuario);
+          }
     }
 }

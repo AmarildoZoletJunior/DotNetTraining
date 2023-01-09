@@ -46,6 +46,19 @@
           }
         }
       },
+      "FluentValidation/11.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
@@ -1165,6 +1178,20 @@
         "runtime": {
           "bin/placeholder/ProjetoDDD.Domain.dll": {}
         }
+      },
+      "ProjetoDDD.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FluentValidation": "11.4.0",
+          "ProjetoDDD.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProjetoDDD.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjetoDDD.Services.dll": {}
+        }
       }
     }
   },
@@ -1205,6 +1232,29 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "FluentValidation/11.4.0": {
+      "sha512": "WZJyrNf4suiaI6avVG32W9kmBLC3+V5rDTcLeRJjeU4tDmTyDIOz1459DzCKppXs34YpZg9rCUzDY3M4XxG7Ug==",
+      "type": "package",
+      "path": "fluentvalidation/11.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.4.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
       ]
     },
     "Humanizer.Core/2.14.1": {
@@ -3515,14 +3565,21 @@
       "type": "project",
       "path": "../ProjetoDDD.Domain/ProjetoDDD.Domain.csproj",
       "msbuildProject": "../ProjetoDDD.Domain/ProjetoDDD.Domain.csproj"
+    },
+    "ProjetoDDD.Services/1.0.0": {
+      "type": "project",
+      "path": "../ProjetoDDD.Services/ProjetoDDD.Services.csproj",
+      "msbuildProject": "../ProjetoDDD.Services/ProjetoDDD.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "FluentValidation >= 11.4.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.1",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.1",
-      "ProjetoDDD.Domain >= 1.0.0"
+      "ProjetoDDD.Domain >= 1.0.0",
+      "ProjetoDDD.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3554,6 +3611,9 @@
           "projectReferences": {
             "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoEmCamadasInicioEf\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj": {
               "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoEmCamadasInicioEf\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj"
+            },
+            "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoEmCamadasInicioEf\\ProjetoDDD.Services\\ProjetoDDD.Services.csproj": {
+              "projectPath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoEmCamadasInicioEf\\ProjetoDDD.Services\\ProjetoDDD.Services.csproj"
             }
           }
         }
@@ -3568,6 +3628,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[11.4.0, )"
+          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",

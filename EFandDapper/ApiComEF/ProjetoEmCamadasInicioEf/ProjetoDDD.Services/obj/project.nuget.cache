@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oVzhYly4NoLEOGWbnVdX4/Jss2GiI07YYz80NLU5nuVgEo2Op5+Lwo2oVpw8LXGz96fmY0qJNxy9+MVNEBWgPg==",
+  "dgSpecHash": "BNmhE9JBIVtddTDNQTOgKHR13CUNKKWGtg/TXwv2AnWEV2avSGJuRxFr+f+qn2CXxs53atM+4zgFr8P9HW3psw==",
   "success": true,
   "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoEmCamadasInicioEf\\ProjetoDDD.Services\\ProjetoDDD.Services.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
+  ],
   "logs": []
 }
