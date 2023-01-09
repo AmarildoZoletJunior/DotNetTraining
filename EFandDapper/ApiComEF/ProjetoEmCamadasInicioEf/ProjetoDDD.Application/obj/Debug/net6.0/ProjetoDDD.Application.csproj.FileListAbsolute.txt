@@ -1,0 +1,6 @@
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Application\obj\Debug\net6.0\ProjetoDDD.Application.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Application\obj\Debug\net6.0\ProjetoDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Application\obj\Debug\net6.0\ProjetoDDD.Application.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Application\obj\Debug\net6.0\ProjetoDDD.Application.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Application\obj\Debug\net6.0\ProjetoDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Application\obj\Debug\net6.0\ProjetoDDD.Application.MvcApplicationPartsAssemblyInfo.cache

@@ -6,7 +6,6 @@ namespace ApiCatalogo.Data
 {
     public class CatalogoContext : DbContext
     {
-        private readonly IConfiguration _configuration;
         public CatalogoContext(DbContextOptions<CatalogoContext> options) : base(options) { }
 
         public DbSet<Categoria> Categorias {get;set;}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "87xybQPkPaLtm3ul0b8jShtERQNvpPtn6woQ27031iv+q9KUkkeM2vB2+OYWgFIn8VxnsbQe+bLBkzSXfRZPrA==",
+  "dgSpecHash": "6QYC6XfrEIRXhBgJc6W46fz6MsLHbbXXTkjRsJEPg4X+hFwHbfGRIARDCEH2F/yupGsZ+1FAuRLkIVNoFOSPnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\Curso webAPI Macoratti\\ApiCatalogoComRepo\\ApiCatalogo.csproj",
+  "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ApiCatalogoRepositorioGenericoComEf\\ApiCatalogo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

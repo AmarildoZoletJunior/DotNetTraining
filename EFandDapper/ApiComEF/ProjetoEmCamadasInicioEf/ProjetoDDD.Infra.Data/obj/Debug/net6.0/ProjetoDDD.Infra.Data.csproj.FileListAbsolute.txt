@@ -1,0 +1,5 @@
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.Data\obj\Debug\net6.0\ProjetoDDD.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.Data\obj\Debug\net6.0\ProjetoDDD.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.Data\obj\Debug\net6.0\ProjetoDDD.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.Data\obj\Debug\net6.0\ProjetoDDD.Infra.Data.AssemblyInfo.cs
+C:\Users\amarildojunior_frwk\Desktop\Repositório Estudos Frame\EFandDapper\ApiComEF\ProjetoEmCamadasInicioEf\ProjetoDDD.Infra.Data\obj\Debug\net6.0\ProjetoDDD.Infra.Data.csproj.CoreCompileInputs.cache
