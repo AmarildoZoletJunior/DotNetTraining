@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o70QMsK9m3O9MokTT30Pac3K2bHN5P3HxYqOGEJUhw1TktiugajzvQrcKhm9SgGNJGsyUHyPLvWKZkeQ35aWuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amarildojunior_frwk\\Desktop\\Repositório Estudos Frame\\EFandDapper\\ApiComEF\\ProjetoEmCamadas\\ProjetoDDD.Services\\ProjetoDDD.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amarildojunior_frwk\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
